@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh_yehHamzaabove-ar.fina" format="2">
+  <advance width="1392"/>
+  <outline>
+    <component base="alefMaksura_alefMaksura-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="814" yOffset="56"/>
+    <component base="hamzaabove-ar" xOffset="-9" yOffset="-170"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar</string>
+        </dict>
+        <dict>
+          <key>anchor</key>
+          <string>top_2</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dotlessbeh-yehmaksura</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yehHamzaabove-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

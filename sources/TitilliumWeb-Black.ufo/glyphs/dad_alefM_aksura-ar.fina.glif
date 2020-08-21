@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad_alefMaksura-ar.fina" format="2">
+  <advance width="1875"/>
+  <unicode hex="FD23"/>
+  <outline>
+    <component base="sad_alefMaksura-ar.fina"/>
+    <component base="dotabove-ar" xOffset="1292" yOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dad-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

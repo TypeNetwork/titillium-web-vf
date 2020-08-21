@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamza-ar" format="2">
+  <advance width="498"/>
+  <unicode hex="0621"/>
+  <anchor x="325" y="-100" name="bottom"/>
+  <anchor x="175" y="549" name="top"/>
+  <outline>
+    <contour>
+      <point x="206" y="4" type="curve"/>
+      <point x="227" y="29" type="line"/>
+      <point x="155" y="95"/>
+      <point x="120" y="160"/>
+      <point x="120" y="226" type="curve" smooth="yes"/>
+      <point x="120" y="307"/>
+      <point x="174" y="358"/>
+      <point x="263" y="358" type="curve" smooth="yes"/>
+      <point x="303" y="358"/>
+      <point x="339" y="348"/>
+      <point x="375" y="328" type="curve"/>
+      <point x="389" y="358" type="line"/>
+      <point x="349" y="381"/>
+      <point x="305" y="392"/>
+      <point x="261" y="392" type="curve" smooth="yes"/>
+      <point x="159" y="392"/>
+      <point x="86" y="331"/>
+      <point x="86" y="227" type="curve" smooth="yes"/>
+      <point x="86" y="151"/>
+      <point x="125" y="75"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="498" y="34" type="line"/>
+      <point x="90" y="34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

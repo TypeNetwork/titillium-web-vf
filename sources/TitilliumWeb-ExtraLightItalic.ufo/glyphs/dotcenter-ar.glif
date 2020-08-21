@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotcenter-ar" format="2">
+  <advance width="75"/>
+  <anchor x="16" y="347" name="_center"/>
+  <outline>
+    <component base="dotabove-ar" xOffset="75" yOffset="-326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

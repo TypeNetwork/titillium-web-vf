@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="600">
+      <map input="200" output="36"/>
+      <map input="300" output="64"/>
+      <map input="400" output="100"/>
+      <map input="600" output="138"/>
+      <map input="700" output="190"/>
+      <map input="900" output="232"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="TitilliumWeb-ExtraLight.ufo" name="Titillium Web ExtraLight" familyname="Titillium Web" stylename="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="36"/>
+      </location>
+    </source>
+    <source filename="TitilliumWeb-SemiBold.ufo" name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="138"/>
+      </location>
+    </source>
+    <source filename="TitilliumWeb-Black.ufo" name="Titillium Web Black" familyname="Titillium Web" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="232"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Titillium Web ExtraLight" familyname="Titillium Web" stylename="ExtraLight" filename="instance_ufos/TitilliumWeb-ExtraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="36"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>459CA063-FA7D-4205-A795-7B6CE244EAAB</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Titillium Web Light" familyname="Titillium Web" stylename="Light" filename="instance_ufos/TitilliumWeb-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="64"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>459CA063-FA7D-4205-A795-7B6CE244EAAB</key>
+            <real>0.72549</real>
+            <key>6F771D6B-58AC-4073-A542-FF52B938F09A</key>
+            <real>0.27451</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Titillium Web Regular" familyname="Titillium Web" stylename="Regular" filename="instance_ufos/TitilliumWeb-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>459CA063-FA7D-4205-A795-7B6CE244EAAB</key>
+            <real>0.37255</real>
+            <key>6F771D6B-58AC-4073-A542-FF52B938F09A</key>
+            <real>0.62745</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold" filename="instance_ufos/TitilliumWeb-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="138"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>6F771D6B-58AC-4073-A542-FF52B938F09A</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Titillium Web Bold" familyname="Titillium Web" stylename="Bold" filename="instance_ufos/TitilliumWeb-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>6F771D6B-58AC-4073-A542-FF52B938F09A</key>
+            <real>0.44681</real>
+            <key>EA657207-4E15-4023-BA2A-6FA5407A60CD</key>
+            <real>0.55319</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Titillium Web Black" familyname="Titillium Web" stylename="Black" filename="instance_ufos/TitilliumWeb-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="232"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>EA657207-4E15-4023-BA2A-6FA5407A60CD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>

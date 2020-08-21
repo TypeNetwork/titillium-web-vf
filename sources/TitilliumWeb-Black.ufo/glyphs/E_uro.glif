@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="550"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="1" y="368" type="line"/>
+      <point x="481" y="368" type="line"/>
+      <point x="481" y="427" type="line"/>
+      <point x="1" y="427" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="246" type="line"/>
+      <point x="481" y="246" type="line"/>
+      <point x="481" y="305" type="line"/>
+      <point x="1" y="305" type="line"/>
+    </contour>
+    <component base="C" xScale="0.97992" yScale="0.98132" xOffset="22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

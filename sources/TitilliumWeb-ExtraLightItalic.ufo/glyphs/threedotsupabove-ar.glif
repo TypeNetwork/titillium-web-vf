@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsupabove-ar" format="2">
+  <advance width="166"/>
+  <unicode hex="FBB6"/>
+  <anchor x="-4" y="625" name="_top"/>
+  <anchor x="-61" y="875" name="top"/>
+  <outline>
+    <contour>
+      <point x="-43" y="720" type="line"/>
+      <point x="-8" y="720" type="line"/>
+      <point x="-20" y="775" type="line"/>
+      <point x="-55" y="775" type="line"/>
+    </contour>
+    <component base="twodotshorizontalabove-ar" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

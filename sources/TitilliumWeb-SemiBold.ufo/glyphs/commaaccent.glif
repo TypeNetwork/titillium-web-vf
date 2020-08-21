@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-311" type="line"/>
+      <point x="116" y="-311" type="line"/>
+      <point x="171" y="-77" type="line"/>
+      <point x="41" y="-77" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>170</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

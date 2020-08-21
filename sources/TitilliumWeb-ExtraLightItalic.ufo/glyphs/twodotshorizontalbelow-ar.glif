@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotshorizontalbelow-ar" format="2">
+  <advance width="136"/>
+  <unicode hex="FBB5"/>
+  <anchor x="126" y="0" name="_bottom"/>
+  <anchor x="157" y="-135" name="bottom"/>
+  <outline>
+    <component base="twodotshorizontalabove-ar" xOffset="159" yOffset="-680"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

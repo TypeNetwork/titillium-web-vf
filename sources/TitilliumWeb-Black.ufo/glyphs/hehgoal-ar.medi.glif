@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.medi" format="2">
+  <advance width="807"/>
+  <unicode hex="FBA9"/>
+  <anchor x="396" y="-395" name="bottom"/>
+  <anchor x="396" y="340" name="top"/>
+  <outline>
+    <contour>
+      <point x="686" y="-406" type="line"/>
+      <point x="686" y="101" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="807" y="0" type="line"/>
+      <point x="807" y="188" type="line"/>
+      <point x="462" y="188" type="line"/>
+      <point x="462" y="-188" type="line"/>
+      <point x="525" y="-121" type="line"/>
+      <point x="465" y="-127"/>
+      <point x="452" y="-128"/>
+      <point x="442" y="-128" type="curve" smooth="yes"/>
+      <point x="363" y="-128"/>
+      <point x="346" y="-68"/>
+      <point x="339" y="188" type="curve"/>
+      <point x="0" y="188" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="119" y="85" type="line"/>
+      <point x="119" y="-245"/>
+      <point x="218" y="-316"/>
+      <point x="451" y="-316" type="curve" smooth="yes"/>
+      <point x="538" y="-316"/>
+      <point x="633" y="-306"/>
+      <point x="725" y="-288" type="curve"/>
+    </contour>
+    <component base="connection_r" xOffset="757"/>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

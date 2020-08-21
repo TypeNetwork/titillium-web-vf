@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="560"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="114" y="-119" type="line"/>
+      <point x="199" y="-119" type="line"/>
+      <point x="599" y="771" type="line"/>
+      <point x="513" y="771" type="line"/>
+    </contour>
+    <component base="S" xScale="0.97202" yScale="0.97301" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

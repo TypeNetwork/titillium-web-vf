@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="madda-ar" format="2">
+  <unicode hex="0653"/>
+  <anchor x="46" y="596" name="_top"/>
+  <anchor x="14" y="733" name="top"/>
+  <outline>
+    <contour>
+      <point x="-40" y="593" type="line"/>
+      <point x="2" y="647" type="line"/>
+      <point x="-33" y="651" type="line"/>
+      <point x="-12" y="612"/>
+      <point x="31" y="596"/>
+      <point x="64" y="596" type="curve" smooth="yes"/>
+      <point x="110" y="596"/>
+      <point x="139" y="626"/>
+      <point x="142" y="665" type="curve"/>
+      <point x="147" y="643" type="line"/>
+      <point x="124" y="660" type="line"/>
+      <point x="129" y="672" type="line"/>
+      <point x="128" y="642"/>
+      <point x="98" y="630"/>
+      <point x="69" y="630" type="curve" smooth="yes"/>
+      <point x="38" y="630"/>
+      <point x="0" y="646"/>
+      <point x="-17" y="676" type="curve"/>
+      <point x="18" y="660" type="line"/>
+      <point x="-36" y="660" type="line"/>
+      <point x="-63" y="611" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>252</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

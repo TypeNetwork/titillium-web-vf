@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.pnum" format="2">
+  <advance width="411"/>
+  <outline>
+    <contour>
+      <point x="185" y="-25" type="line"/>
+      <point x="483" y="334" type="line"/>
+      <point x="524" y="501" type="line"/>
+      <point x="120" y="501" type="line"/>
+      <point x="88" y="377" type="line" name="hr00"/>
+      <point x="343" y="377" type="line"/>
+      <point x="334" y="344" type="line"/>
+      <point x="73" y="38" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

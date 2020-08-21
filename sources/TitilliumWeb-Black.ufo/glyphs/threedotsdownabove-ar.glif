@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdownabove-ar" format="2">
+  <advance width="495"/>
+  <unicode hex="FBB8"/>
+  <anchor x="247" y="421" name="_top"/>
+  <anchor x="247" y="833" name="top"/>
+  <outline>
+    <component base="threedotsupabove-ar" yScale="-1" yOffset="1250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

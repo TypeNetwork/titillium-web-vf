@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem-ar" format="2">
+  <advance width="569"/>
+  <unicode hex="062C"/>
+  <outline>
+    <contour>
+      <point x="331" y="-165" type="line"/>
+      <point x="366" y="-165" type="line"/>
+      <point x="366" y="-110" type="line"/>
+      <point x="331" y="-110" type="line"/>
+    </contour>
+    <component base="hah-ar.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

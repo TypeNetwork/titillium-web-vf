@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar" format="2">
+  <advance width="699"/>
+  <unicode hex="FEFB"/>
+  <anchor x="634" y="-60" name="bottom_1"/>
+  <anchor x="325" y="-60" name="bottom_2"/>
+  <anchor x="436" y="0" name="caret_1"/>
+  <anchor x="447" y="750" name="top_1"/>
+  <anchor x="169" y="615" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="525" y="700" type="line"/>
+      <point x="391" y="700" type="line"/>
+      <point x="537" y="60" type="line"/>
+      <point x="578" y="120" type="line"/>
+      <point x="70" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="120" type="line"/>
+      <point x="350" y="120" type="line"/>
+      <point x="247" y="565" type="line"/>
+      <point x="113" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
