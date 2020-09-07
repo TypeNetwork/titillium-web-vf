@@ -1783,11 +1783,6 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
     <string>1230</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Extra Italic</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>­</string>
-      <string>-</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
@@ -1812,8 +1807,6 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
     <integer>35</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>459CA063-FA7D-4205-A795-7B6CE244EAAB</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

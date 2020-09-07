@@ -2014,8 +2014,6 @@ Wt1
     <integer>232</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>EA657207-4E15-4023-BA2A-6FA5407A60CD</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>2</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
