@@ -32,42 +32,42 @@
     </source>
   </sources>
   <instances>
-    <instance name="Titillium Web ExtraLight" familyname="Titillium Web" stylename="ExtraLight" filename="instance_ufos/TitilliumWeb-ExtraLight.ufo">
+    <instance name="Titillium Web ExtraLight" familyname="Titillium Web" stylename="ExtraLight" filename="instance_ufos/TitilliumWeb-ExtraLight.ufo" stylemapfamilyname="Titillium Web ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="36"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Light" familyname="Titillium Web" stylename="Light" filename="instance_ufos/TitilliumWeb-Light.ufo">
+    <instance name="Titillium Web Light" familyname="Titillium Web" stylename="Light" filename="instance_ufos/TitilliumWeb-Light.ufo" stylemapfamilyname="Titillium Web Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="64"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Regular" familyname="Titillium Web" stylename="Regular" filename="instance_ufos/TitilliumWeb-Regular.ufo">
+    <instance name="Titillium Web Regular" familyname="Titillium Web" stylename="Regular" filename="instance_ufos/TitilliumWeb-Regular.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold" filename="instance_ufos/TitilliumWeb-SemiBold.ufo">
+    <instance name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold" filename="instance_ufos/TitilliumWeb-SemiBold.ufo" stylemapfamilyname="Titillium Web SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Bold" familyname="Titillium Web" stylename="Bold" filename="instance_ufos/TitilliumWeb-Bold.ufo">
+    <instance name="Titillium Web Bold" familyname="Titillium Web" stylename="Bold" filename="instance_ufos/TitilliumWeb-Bold.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="190"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Black" familyname="Titillium Web" stylename="Black" filename="instance_ufos/TitilliumWeb-Black.ufo">
+    <instance name="Titillium Web Black" familyname="Titillium Web" stylename="Black" filename="instance_ufos/TitilliumWeb-Black.ufo" stylemapfamilyname="Titillium Web Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="232"/>
       </location>

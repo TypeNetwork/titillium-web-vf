@@ -26,35 +26,35 @@
     </source>
   </sources>
   <instances>
-    <instance name="Titillium Web ExtraLight Italic" familyname="Titillium Web" stylename="ExtraLight Italic" filename="instance_ufos/TitilliumWeb-ExtraLightItalic.ufo">
+    <instance name="Titillium Web ExtraLight Italic" familyname="Titillium Web" stylename="ExtraLight Italic" filename="instance_ufos/TitilliumWeb-ExtraLightItalic.ufo" stylemapfamilyname="Titillium Web ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="35"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Light Italic" familyname="Titillium Web" stylename="Light Italic" filename="instance_ufos/TitilliumWeb-LightItalic.ufo">
+    <instance name="Titillium Web Light Italic" familyname="Titillium Web" stylename="Light Italic" filename="instance_ufos/TitilliumWeb-LightItalic.ufo" stylemapfamilyname="Titillium Web Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="59"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Italic" familyname="Titillium Web" stylename="Italic" filename="instance_ufos/TitilliumWeb-Italic.ufo">
+    <instance name="Titillium Web Italic" familyname="Titillium Web" stylename="Italic" filename="instance_ufos/TitilliumWeb-Italic.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="75"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web SemiBold Italic" familyname="Titillium Web" stylename="SemiBold Italic" filename="instance_ufos/TitilliumWeb-SemiBoldItalic.ufo">
+    <instance name="Titillium Web SemiBold Italic" familyname="Titillium Web" stylename="SemiBold Italic" filename="instance_ufos/TitilliumWeb-SemiBoldItalic.ufo" stylemapfamilyname="Titillium Web SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="109"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Bold Italic" familyname="Titillium Web" stylename="Bold Italic" filename="instance_ufos/TitilliumWeb-BoldItalic.ufo">
+    <instance name="Titillium Web Bold Italic" familyname="Titillium Web" stylename="Bold Italic" filename="instance_ufos/TitilliumWeb-BoldItalic.ufo" stylemapfamilyname="Titillium Web Bold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="134"/>
       </location>
