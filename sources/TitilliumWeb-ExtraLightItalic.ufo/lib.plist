@@ -1788,11 +1788,13 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
     <string>459CA063-FA7D-4205-A795-7B6CE244EAAB</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.Master Name</key>
+    <string>ExtraLight Italic</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
