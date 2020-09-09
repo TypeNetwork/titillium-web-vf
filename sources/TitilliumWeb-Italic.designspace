@@ -54,7 +54,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Titillium Web Bold Italic" familyname="Titillium Web" stylename="Bold Italic" filename="instance_ufos/TitilliumWeb-BoldItalic.ufo" stylemapfamilyname="Titillium Web Bold" stylemapstylename="italic">
+    <instance name="Titillium Web Bold Italic" familyname="Titillium Web" stylename="Bold Italic" filename="instance_ufos/TitilliumWeb-BoldItalic.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="134"/>
       </location>
