@@ -32,9 +32,9 @@ languagesystem arab URD;
 
 feature aalt {
 # automatic
-feature ccmp;
 feature locl;
 feature subs;
+feature sinf;
 feature sups;
 feature numr;
 feature dnom;
@@ -80,6 +80,7 @@ lookup ccmp_arab_1 {
 } ccmp_arab_1;
 
 script arab;
+lookup ccmp_arab_1;
 
 } ccmp;
 
@@ -118,6 +119,21 @@ sub eight by eightinferior;
 sub nine by nineinferior;
 
 } subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} sinf;
 
 feature sups {
 # automatic
@@ -191,6 +207,7 @@ feature init {
 sub behDotless-ar by behDotless-ar.init;
 sub beh-ar by beh-ar.init;
 sub peh-ar by peh-ar.init;
+sub alefMaksura-ar by alefMaksura-ar.init;
 sub teh-ar by teh-ar.init;
 sub theh-ar by theh-ar.init;
 sub tteh-ar by tteh-ar.init;
@@ -230,6 +247,7 @@ feature medi {
 sub behDotless-ar by behDotless-ar.medi;
 sub beh-ar by beh-ar.medi;
 sub peh-ar by peh-ar.medi;
+sub alefMaksura-ar by alefMaksura-ar.medi;
 sub teh-ar by teh-ar.medi;
 sub theh-ar by theh-ar.medi;
 sub tteh-ar by tteh-ar.medi;
