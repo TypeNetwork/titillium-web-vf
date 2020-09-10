@@ -3,14 +3,8 @@
   <advance width="654"/>
   <unicode hex="FB7B"/>
   <outline>
-    <contour>
-      <point x="593" y="0" type="line"/>
-      <point x="712" y="0" type="line"/>
-      <point x="684" y="120" type="line"/>
-      <point x="565" y="120" type="line"/>
-    </contour>
-    <component base="tcheh-ar"/>
-    <component base="connection_r" xOffset="604"/>
+    <component base="hah-ar.fina.alt"/>
+    <component base="threedotsdowncenter-ar.alt" xOffset="347" yOffset="-363"/>
   </outline>
   <lib>
     <dict>

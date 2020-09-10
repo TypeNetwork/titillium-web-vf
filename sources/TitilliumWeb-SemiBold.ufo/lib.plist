@@ -3036,6 +3036,8 @@ Wt1
       <string>dotbelowar</string>
       <key>dotcenter-ar</key>
       <string>dotcenterar</string>
+      <key>dotcenter-ar.alt</key>
+      <string>dotcenterar.alt</string>
       <key>dotlessj</key>
       <string>uni0237</string>
       <key>eight-ar</key>
@@ -3576,6 +3578,8 @@ Wt1
       <string>threedotsdownbelowar</string>
       <key>threedotsdowncenter-ar</key>
       <string>threedotsdowncenterar</string>
+      <key>threedotsdowncenter-ar.alt</key>
+      <string>threedotsdowncenterar.alt</string>
       <key>threedotsupabove-ar</key>
       <string>threedotsupabovear</string>
       <key>threedotsupbelow-ar</key>

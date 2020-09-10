@@ -2,11 +2,9 @@
 <glyph name="jeem-ar.fina" format="2">
   <advance width="654"/>
   <unicode hex="FE9E"/>
-  <anchor x="420" y="-400" name="bottom"/>
-  <anchor x="195" y="573" name="top"/>
   <outline>
-    <component base="hah-ar.fina"/>
-    <component base="dotcenter-ar" xScale="0.75131" yScale="0.75131" xOffset="391" yOffset="-362"/>
+    <component base="hah-ar.fina.alt"/>
+    <component base="dotcenter-ar.alt" xOffset="374" yOffset="-448"/>
   </outline>
   <lib>
     <dict>

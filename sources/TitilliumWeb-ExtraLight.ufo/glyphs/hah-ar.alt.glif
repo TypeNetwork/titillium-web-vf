@@ -2,7 +2,7 @@
 <glyph name="hah-ar.alt" format="2">
   <advance width="569"/>
   <anchor x="281" y="-400" name="bottom"/>
-  <anchor x="349" y="-137" name="center"/>
+  <anchor x="314" y="-137" name="center"/>
   <anchor x="281" y="573" name="top"/>
   <outline>
     <contour>

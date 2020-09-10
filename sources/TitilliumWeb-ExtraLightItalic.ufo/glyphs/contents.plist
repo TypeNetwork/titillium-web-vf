@@ -548,6 +548,8 @@
     <string>dotbelow-ar.glif</string>
     <key>dotcenter-ar</key>
     <string>dotcenter-ar.glif</string>
+    <key>dotcenter-ar.alt</key>
+    <string>dotcenter-ar.alt.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>dotlessj</key>
@@ -720,8 +722,12 @@
     <string>h.glif</string>
     <key>hah-ar</key>
     <string>hah-ar.glif</string>
+    <key>hah-ar.alt</key>
+    <string>hah-ar.alt.glif</string>
     <key>hah-ar.fina</key>
     <string>hah-ar.fina.glif</string>
+    <key>hah-ar.fina.alt</key>
+    <string>hah-ar.fina.alt.glif</string>
     <key>hah-ar.init</key>
     <string>hah-ar.init.glif</string>
     <key>hah-ar.medi</key>
@@ -1442,6 +1448,8 @@
     <string>threedotsdownbelow-ar.glif</string>
     <key>threedotsdowncenter-ar</key>
     <string>threedotsdowncenter-ar.glif</string>
+    <key>threedotsdowncenter-ar.alt</key>
+    <string>threedotsdowncenter-ar.alt.glif</string>
     <key>threedotsupabove-ar</key>
     <string>threedotsupabove-ar.glif</string>
     <key>threedotsupbelow-ar</key>

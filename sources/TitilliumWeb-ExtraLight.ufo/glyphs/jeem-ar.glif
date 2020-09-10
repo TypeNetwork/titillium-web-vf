@@ -3,13 +3,8 @@
   <advance width="569"/>
   <unicode hex="062C"/>
   <outline>
-    <contour>
-      <point x="331" y="-165" type="line"/>
-      <point x="366" y="-165" type="line"/>
-      <point x="366" y="-110" type="line"/>
-      <point x="331" y="-110" type="line"/>
-    </contour>
     <component base="hah-ar.alt"/>
+    <component base="dotcenter-ar.alt" xOffset="276" yOffset="-484"/>
   </outline>
   <lib>
     <dict>

@@ -2816,6 +2816,8 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>dotbelowar</string>
       <key>dotcenter-ar</key>
       <string>dotcenterar</string>
+      <key>dotcenter-ar.alt</key>
+      <string>dotcenterar.alt</string>
       <key>dotlessj</key>
       <string>uni0237</string>
       <key>eight-ar</key>
@@ -2886,8 +2888,12 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>uniFED0</string>
       <key>hah-ar</key>
       <string>uni062D</string>
+      <key>hah-ar.alt</key>
+      <string>uni062D.alt</string>
       <key>hah-ar.fina</key>
       <string>uniFEA2</string>
+      <key>hah-ar.fina.alt</key>
+      <string>uniFE9E.alt</string>
       <key>hah-ar.init</key>
       <string>uniFEA3</string>
       <key>hah-ar.medi</key>
@@ -3356,6 +3362,8 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>threedotsdownbelowar</string>
       <key>threedotsdowncenter-ar</key>
       <string>threedotsdowncenterar</string>
+      <key>threedotsdowncenter-ar.alt</key>
+      <string>threedotsdowncenterar.alt</string>
       <key>threedotsupabove-ar</key>
       <string>threedotsupabovear</string>
       <key>threedotsupbelow-ar</key>
