@@ -2702,6 +2702,10 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>uni0649</string>
       <key>alefMaksura-ar.fina</key>
       <string>uniFEF0</string>
+      <key>alefMaksura-ar.init</key>
+      <string>uniFBE8</string>
+      <key>alefMaksura-ar.medi</key>
+      <string>uniFBE9</string>
       <key>alefMaksura_alefMaksura-ar.fina</key>
       <string>alefMaksura_alefMaksuraar.fina</string>
       <key>alefMaksura_noon-ar.fina</key>
