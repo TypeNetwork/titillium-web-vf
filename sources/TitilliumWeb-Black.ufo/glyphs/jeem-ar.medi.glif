@@ -4,7 +4,7 @@
   <unicode hex="FEA0"/>
   <outline>
     <component base="hah-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="91" yOffset="-70"/>
+    <component base="dotbelow-ar.comb" xOffset="91" yOffset="-70"/>
   </outline>
   <lib>
     <dict>

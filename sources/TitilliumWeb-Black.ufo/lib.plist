@@ -3034,8 +3034,12 @@ Wt1
       <string>uni2215</string>
       <key>dotabove-ar</key>
       <string>dotabovear</string>
+      <key>dotabove-ar.comb</key>
+      <string>dotabovear.comb</string>
       <key>dotbelow-ar</key>
       <string>dotbelowar</string>
+      <key>dotbelow-ar.comb</key>
+      <string>dotbelowar.comb</string>
       <key>dotcenter-ar</key>
       <string>dotcenterar</string>
       <key>dotcenter-ar.alt</key>
@@ -3576,16 +3580,24 @@ Wt1
       <string>uni06F3</string>
       <key>threedotsdownabove-ar</key>
       <string>threedotsdownabovear</string>
+      <key>threedotsdownabove-ar.comb</key>
+      <string>threedotsdownabovear.comb</string>
       <key>threedotsdownbelow-ar</key>
       <string>threedotsdownbelowar</string>
+      <key>threedotsdownbelow-ar.comb</key>
+      <string>threedotsdownbelowar.comb</string>
       <key>threedotsdowncenter-ar</key>
       <string>threedotsdowncenterar</string>
       <key>threedotsdowncenter-ar.alt</key>
       <string>threedotsdowncenterar.alt</string>
       <key>threedotsupabove-ar</key>
       <string>threedotsupabovear</string>
+      <key>threedotsupabove-ar.comb</key>
+      <string>threedotsupabovear.comb</string>
       <key>threedotsupbelow-ar</key>
       <string>threedotsupbelowar</string>
+      <key>threedotsupbelow-ar.comb</key>
+      <string>threedotsupbelowar.comb</string>
       <key>threeinferior</key>
       <string>uni2083</string>
       <key>threesuperior</key>
@@ -3604,12 +3616,20 @@ Wt1
       <string>uni06F2</string>
       <key>twodotshorizontalabove-ar</key>
       <string>twodotshorizontalabovear</string>
+      <key>twodotshorizontalabove-ar.comb</key>
+      <string>twodotshorizontalabovear.comb</string>
       <key>twodotshorizontalbelow-ar</key>
       <string>twodotshorizontalbelowar</string>
+      <key>twodotshorizontalbelow-ar.comb</key>
+      <string>twodotshorizontalbelowar.comb</string>
       <key>twodotsverticalabove-ar</key>
       <string>twodotsverticalabovear</string>
+      <key>twodotsverticalabove-ar.comb</key>
+      <string>twodotsverticalabovear.comb</string>
       <key>twodotsverticalbelow-ar</key>
       <string>twodotsverticalbelowar</string>
+      <key>twodotsverticalbelow-ar.comb</key>
+      <string>twodotsverticalbelowar.comb</string>
       <key>twoinferior</key>
       <string>uni2082</string>
       <key>twosuperior</key>

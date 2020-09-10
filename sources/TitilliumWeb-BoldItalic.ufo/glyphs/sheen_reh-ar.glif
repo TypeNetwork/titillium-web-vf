@@ -4,7 +4,7 @@
   <unicode hex="FD0D"/>
   <outline>
     <component base="seen_reh-ar"/>
-    <component base="threedotsupabove-ar" xOffset="613" yOffset="29"/>
+    <component base="threedotsupabove-ar.comb" xOffset="613" yOffset="29"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>threedotsupabove-ar</string>
+          <string>threedotsupabove-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

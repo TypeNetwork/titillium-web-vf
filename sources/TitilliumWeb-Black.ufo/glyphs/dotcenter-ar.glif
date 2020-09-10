@@ -3,7 +3,7 @@
   <advance width="266"/>
   <anchor x="133" y="346" name="_center"/>
   <outline>
-    <component base="dotabove-ar" yOffset="-268"/>
+    <component base="dotabove-ar.comb" yOffset="-268"/>
   </outline>
   <lib>
     <dict>

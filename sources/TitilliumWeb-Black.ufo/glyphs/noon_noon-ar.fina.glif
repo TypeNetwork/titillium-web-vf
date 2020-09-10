@@ -4,7 +4,7 @@
   <unicode hex="FC8D"/>
   <outline>
     <component base="alefMaksura_noon-ar.fina"/>
-    <component base="dotabove-ar" xOffset="874" yOffset="36"/>
+    <component base="dotabove-ar.comb" xOffset="874" yOffset="36"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

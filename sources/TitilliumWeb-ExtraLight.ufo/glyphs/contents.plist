@@ -548,12 +548,16 @@
     <string>dollar.glif</string>
     <key>dotabove-ar</key>
     <string>dotabove-ar.glif</string>
+    <key>dotabove-ar.comb</key>
+    <string>dotabove-ar.comb.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>dotaccent.cap</key>
     <string>dotaccent.cap.glif</string>
     <key>dotbelow-ar</key>
     <string>dotbelow-ar.glif</string>
+    <key>dotbelow-ar.comb</key>
+    <string>dotbelow-ar.comb.glif</string>
     <key>dotcenter-ar</key>
     <string>dotcenter-ar.glif</string>
     <key>dotcenter-ar.alt</key>
@@ -1448,16 +1452,24 @@
     <string>three.pnum.glif</string>
     <key>threedotsdownabove-ar</key>
     <string>threedotsdownabove-ar.glif</string>
+    <key>threedotsdownabove-ar.comb</key>
+    <string>threedotsdownabove-ar.comb.glif</string>
     <key>threedotsdownbelow-ar</key>
     <string>threedotsdownbelow-ar.glif</string>
+    <key>threedotsdownbelow-ar.comb</key>
+    <string>threedotsdownbelow-ar.comb.glif</string>
     <key>threedotsdowncenter-ar</key>
     <string>threedotsdowncenter-ar.glif</string>
     <key>threedotsdowncenter-ar.alt</key>
     <string>threedotsdowncenter-ar.alt.glif</string>
     <key>threedotsupabove-ar</key>
     <string>threedotsupabove-ar.glif</string>
+    <key>threedotsupabove-ar.comb</key>
+    <string>threedotsupabove-ar.comb.glif</string>
     <key>threedotsupbelow-ar</key>
     <string>threedotsupbelow-ar.glif</string>
+    <key>threedotsupbelow-ar.comb</key>
+    <string>threedotsupbelow-ar.comb.glif</string>
     <key>threeinferior</key>
     <string>threeinferior.glif</string>
     <key>threequarters</key>
@@ -1492,12 +1504,20 @@
     <string>two.pnum.glif</string>
     <key>twodotshorizontalabove-ar</key>
     <string>twodotshorizontalabove-ar.glif</string>
+    <key>twodotshorizontalabove-ar.comb</key>
+    <string>twodotshorizontalabove-ar.comb.glif</string>
     <key>twodotshorizontalbelow-ar</key>
     <string>twodotshorizontalbelow-ar.glif</string>
+    <key>twodotshorizontalbelow-ar.comb</key>
+    <string>twodotshorizontalbelow-ar.comb.glif</string>
     <key>twodotsverticalabove-ar</key>
     <string>twodotsverticalabove-ar.glif</string>
+    <key>twodotsverticalabove-ar.comb</key>
+    <string>twodotsverticalabove-ar.comb.glif</string>
     <key>twodotsverticalbelow-ar</key>
     <string>twodotsverticalbelow-ar.glif</string>
+    <key>twodotsverticalbelow-ar.comb</key>
+    <string>twodotsverticalbelow-ar.comb.glif</string>
     <key>twoinferior</key>
     <string>twoinferior.glif</string>
     <key>twosuperior</key>

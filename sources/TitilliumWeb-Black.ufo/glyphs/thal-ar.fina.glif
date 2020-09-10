@@ -4,7 +4,7 @@
   <unicode hex="FEAC"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="dotabove-ar" xOffset="42" yOffset="36"/>
+    <component base="dotabove-ar.comb" xOffset="42" yOffset="36"/>
   </outline>
   <lib>
     <dict>

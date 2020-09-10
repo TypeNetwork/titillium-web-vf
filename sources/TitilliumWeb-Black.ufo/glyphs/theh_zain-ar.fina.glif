@@ -4,8 +4,8 @@
   <unicode hex="FC77"/>
   <outline>
     <component base="alefMaksura_reh-ar.fina.alt"/>
-    <component base="dotabove-ar" xOffset="45" yOffset="36"/>
-    <component base="threedotsupabove-ar" xOffset="356" yOffset="56"/>
+    <component base="dotabove-ar.comb" xOffset="45" yOffset="36"/>
+    <component base="threedotsupabove-ar.comb" xOffset="356" yOffset="56"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>
@@ -25,7 +25,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>threedotsupabove-ar</string>
+          <string>threedotsupabove-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

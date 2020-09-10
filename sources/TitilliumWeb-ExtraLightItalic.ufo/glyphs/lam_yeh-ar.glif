@@ -4,7 +4,7 @@
   <unicode hex="FC44"/>
   <outline>
     <component base="lam_alefMaksura-ar"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="425" yOffset="-300"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="425" yOffset="-300"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <unicode hex="FD07"/>
   <outline>
     <component base="sad_alefMaksura-ar"/>
-    <component base="dotabove-ar" xOffset="1204" yOffset="9"/>
+    <component base="dotabove-ar.comb" xOffset="1204" yOffset="9"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

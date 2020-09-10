@@ -2,8 +2,6 @@
 <glyph name="dotbelow-ar" format="2">
   <advance width="174"/>
   <unicode hex="FBB3"/>
-  <anchor x="87" y="15" name="_bottom"/>
-  <anchor x="87" y="-196" name="bottom"/>
   <outline>
     <component base="dotabove-ar" yOffset="-685"/>
   </outline>

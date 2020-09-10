@@ -4,7 +4,7 @@
   <unicode hex="0634"/>
   <outline>
     <component base="seen-ar"/>
-    <component base="threedotsupabove-ar" xOffset="717" yOffset="-52"/>
+    <component base="threedotsupabove-ar.comb" xOffset="717" yOffset="-52"/>
   </outline>
   <lib>
     <dict>

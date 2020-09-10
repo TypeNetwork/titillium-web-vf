@@ -3,7 +3,7 @@
   <advance width="495"/>
   <anchor x="247" y="284" name="_center"/>
   <outline>
-    <component base="threedotsdownabove-ar" yOffset="-293"/>
+    <component base="threedotsdownabove-ar.comb" yOffset="-293"/>
   </outline>
   <lib>
     <dict>

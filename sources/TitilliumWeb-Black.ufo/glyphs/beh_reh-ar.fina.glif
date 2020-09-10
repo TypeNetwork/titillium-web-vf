@@ -4,7 +4,7 @@
   <unicode hex="FC6A"/>
   <outline>
     <component base="alefMaksura_reh-ar.fina"/>
-    <component base="dotbelow-ar" xOffset="470" yOffset="-70"/>
+    <component base="dotbelow-ar.comb" xOffset="470" yOffset="-70"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotbelow-ar</string>
+          <string>dotbelow-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

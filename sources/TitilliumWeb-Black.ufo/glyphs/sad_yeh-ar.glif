@@ -4,7 +4,7 @@
   <unicode hex="FD06"/>
   <outline>
     <component base="sad_alefMaksura-ar"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="267" yOffset="-310"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="267" yOffset="-310"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>twodotshorizontalbelow-ar</string>
+          <string>twodotshorizontalbelow-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

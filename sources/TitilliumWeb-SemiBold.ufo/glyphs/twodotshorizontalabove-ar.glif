@@ -2,8 +2,6 @@
 <glyph name="twodotshorizontalabove-ar" format="2">
   <advance width="343"/>
   <unicode hex="FBB4"/>
-  <anchor x="172" y="544" name="_top"/>
-  <anchor x="172" y="760" name="top"/>
   <outline>
     <component base="dotabove-ar" xOffset="-14" yOffset="-20"/>
     <component base="dotabove-ar" xOffset="183" yOffset="-20"/>

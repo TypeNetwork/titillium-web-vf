@@ -2,10 +2,8 @@
 <glyph name="threedotsdownbelow-ar" format="2">
   <advance width="495"/>
   <unicode hex="FBB9"/>
-  <anchor x="247" y="92" name="_bottom"/>
-  <anchor x="247" y="-340" name="bottom"/>
   <outline>
-    <component base="threedotsupbelow-ar" yScale="-1" yOffset="-210"/>
+    <component base="threedotsdownabove-ar" yOffset="-641"/>
   </outline>
   <lib>
     <dict>

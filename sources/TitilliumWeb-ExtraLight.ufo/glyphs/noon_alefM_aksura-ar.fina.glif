@@ -4,7 +4,7 @@
   <unicode hex="FC8E"/>
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina"/>
-    <component base="dotabove-ar" xOffset="862" yOffset="-72"/>
+    <component base="dotabove-ar.comb" xOffset="862" yOffset="-72"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
       </array>
       <key>public.markColor</key>

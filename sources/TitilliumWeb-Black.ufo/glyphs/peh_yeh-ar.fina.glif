@@ -3,8 +3,8 @@
   <advance width="1492"/>
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina.alt"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="267" yOffset="-310"/>
-    <component base="threedotsdownbelow-ar" xOffset="992" yOffset="-152"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="267" yOffset="-310"/>
+    <component base="threedotsdownbelow-ar.comb" xOffset="992" yOffset="-152"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>twodotshorizontalbelow-ar</string>
+          <string>twodotshorizontalbelow-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>threedotsdownbelow-ar</string>
+          <string>threedotsdownbelow-ar.comb</string>
         </dict>
       </array>
       <key>public.markColor</key>

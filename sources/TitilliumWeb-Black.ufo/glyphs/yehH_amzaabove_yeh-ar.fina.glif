@@ -5,7 +5,7 @@
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina"/>
     <component base="hamzaabove-ar" xOffset="956" yOffset="139"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="267" yOffset="-310"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="267" yOffset="-310"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>twodotshorizontalbelow-ar</string>
+          <string>twodotshorizontalbelow-ar.comb</string>
         </dict>
       </array>
       <key>public.markColor</key>

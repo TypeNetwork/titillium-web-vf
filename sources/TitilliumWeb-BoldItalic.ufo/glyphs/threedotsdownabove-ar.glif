@@ -2,10 +2,14 @@
 <glyph name="threedotsdownabove-ar" format="2">
   <advance width="363"/>
   <unicode hex="FBB8"/>
-  <anchor x="144" y="401" name="_top"/>
-  <anchor x="57" y="786" name="top"/>
   <outline>
-    <component base="threedotsupabove-ar" xScale="-1" yScale="-1" xOffset="191" yOffset="1250"/>
+    <contour>
+      <point x="86" y="401" type="line"/>
+      <point x="208" y="401" type="line"/>
+      <point x="180" y="525" type="line"/>
+      <point x="58" y="525" type="line"/>
+    </contour>
+    <component base="twodotshorizontalabove-ar" xOffset="4" yOffset="26"/>
   </outline>
   <lib>
     <dict>

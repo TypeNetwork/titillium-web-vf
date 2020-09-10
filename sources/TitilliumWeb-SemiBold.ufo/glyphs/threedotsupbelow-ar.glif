@@ -2,8 +2,6 @@
 <glyph name="threedotsupbelow-ar" format="2">
   <advance width="363"/>
   <unicode hex="FBB7"/>
-  <anchor x="192" y="15" name="_bottom"/>
-  <anchor x="192" y="-395" name="bottom"/>
   <outline>
     <component base="threedotsupabove-ar" xOffset="10" yOffset="-834"/>
   </outline>

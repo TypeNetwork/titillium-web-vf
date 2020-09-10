@@ -4,7 +4,7 @@
   <unicode hex="FED0"/>
   <outline>
     <component base="ain-ar.medi"/>
-    <component base="dotabove-ar" xOffset="243" yOffset="9"/>
+    <component base="dotabove-ar.comb" xOffset="243" yOffset="9"/>
   </outline>
   <lib>
     <dict>

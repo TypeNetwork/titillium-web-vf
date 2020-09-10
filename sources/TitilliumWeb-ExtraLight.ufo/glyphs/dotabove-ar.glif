@@ -2,8 +2,6 @@
 <glyph name="dotabove-ar" format="2">
   <advance width="75"/>
   <unicode hex="FBB2"/>
-  <anchor x="38" y="645" name="_top"/>
-  <anchor x="38" y="760" name="top"/>
   <outline>
     <contour>
       <point x="20" y="645" type="line"/>

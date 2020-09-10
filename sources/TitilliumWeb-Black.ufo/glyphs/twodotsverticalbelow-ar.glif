@@ -2,8 +2,6 @@
 <glyph name="twodotsverticalbelow-ar" format="2">
   <advance width="266"/>
   <unicode hex="FBBE"/>
-  <anchor x="133" y="90" name="_bottom"/>
-  <anchor x="133" y="-406" name="bottom"/>
   <outline>
     <component base="twodotsverticalabove-ar" yOffset="-813"/>
   </outline>

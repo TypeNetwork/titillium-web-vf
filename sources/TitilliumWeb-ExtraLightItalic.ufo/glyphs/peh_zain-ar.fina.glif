@@ -3,8 +3,8 @@
   <advance width="514"/>
   <outline>
     <component base="alefMaksura_reh-ar.fina"/>
-    <component base="threedotsdownbelow-ar" xOffset="303" yOffset="50"/>
-    <component base="dotabove-ar" xOffset="140" yOffset="-72"/>
+    <component base="threedotsdownbelow-ar.comb" xOffset="303" yOffset="50"/>
+    <component base="dotabove-ar.comb" xOffset="140" yOffset="-72"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>threedotsdownbelow-ar</string>
+          <string>threedotsdownbelow-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

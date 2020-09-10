@@ -4,8 +4,8 @@
   <unicode hex="FC6F"/>
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina"/>
-    <component base="dotbelow-ar" xOffset="876" yOffset="-60"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="425" yOffset="-300"/>
+    <component base="dotbelow-ar.comb" xOffset="876" yOffset="-60"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="425" yOffset="-300"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotbelow-ar</string>
+          <string>dotbelow-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>
@@ -25,7 +25,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>twodotshorizontalbelow-ar</string>
+          <string>twodotshorizontalbelow-ar.comb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

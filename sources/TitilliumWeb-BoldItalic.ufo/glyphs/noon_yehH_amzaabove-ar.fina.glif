@@ -3,7 +3,7 @@
   <advance width="1235"/>
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina"/>
-    <component base="dotabove-ar" xOffset="962" yOffset="9"/>
+    <component base="dotabove-ar.comb" xOffset="962" yOffset="9"/>
     <component base="hamzaabove-ar" xOffset="26" yOffset="-219"/>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dotabove-ar</string>
+          <string>dotabove-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>

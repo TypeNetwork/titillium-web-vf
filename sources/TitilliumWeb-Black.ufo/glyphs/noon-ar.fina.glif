@@ -4,7 +4,7 @@
   <unicode hex="FEE6"/>
   <outline>
     <component base="noonghunna-ar.fina"/>
-    <component base="dotabove-ar" xOffset="234" yOffset="37"/>
+    <component base="dotabove-ar.comb" xOffset="234" yOffset="37"/>
   </outline>
   <lib>
     <dict>

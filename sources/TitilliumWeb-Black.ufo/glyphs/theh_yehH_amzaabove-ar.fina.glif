@@ -3,7 +3,7 @@
   <advance width="1392"/>
   <outline>
     <component base="alefMaksura_alefMaksura-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="814" yOffset="56"/>
+    <component base="threedotsupabove-ar.comb" xOffset="814" yOffset="56"/>
     <component base="hamzaabove-ar" xOffset="-9" yOffset="-170"/>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>threedotsupabove-ar</string>
+          <string>threedotsupabove-ar.comb</string>
         </dict>
         <dict>
           <key>anchor</key>

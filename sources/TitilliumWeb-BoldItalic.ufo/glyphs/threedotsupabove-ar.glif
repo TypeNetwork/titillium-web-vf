@@ -2,8 +2,6 @@
 <glyph name="threedotsupabove-ar" format="2">
   <advance width="363"/>
   <unicode hex="FBB6"/>
-  <anchor x="114" y="544" name="_top"/>
-  <anchor x="21" y="949" name="top"/>
   <outline>
     <contour>
       <point x="11" y="725" type="line"/>

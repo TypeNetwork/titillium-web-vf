@@ -3,7 +3,7 @@
   <advance width="624"/>
   <outline>
     <component base="hehgoal-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="107" yOffset="29"/>
+    <component base="twodotshorizontalabove-ar.comb" xOffset="107" yOffset="29"/>
   </outline>
   <lib>
     <dict>

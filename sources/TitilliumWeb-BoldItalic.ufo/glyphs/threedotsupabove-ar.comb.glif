@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsupabove-ar.comb" format="2">
+  <advance width="363"/>
+  <anchor x="114" y="544" name="_top"/>
+  <anchor x="21" y="949" name="top"/>
+  <outline>
+    <component base="threedotsupabove-ar"/>
+  </outline>
+</glyph>

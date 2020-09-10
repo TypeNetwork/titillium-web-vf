@@ -4,7 +4,7 @@
   <unicode hex="FC94"/>
   <outline>
     <component base="alefMaksura_noon-ar.fina.alt"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="705" yOffset="-60"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="705" yOffset="-60"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>twodotshorizontalbelow-ar</string>
+          <string>twodotshorizontalbelow-ar.comb</string>
         </dict>
       </array>
       <key>public.markColor</key>
