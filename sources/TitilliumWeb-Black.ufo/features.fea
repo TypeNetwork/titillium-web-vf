@@ -483,3 +483,7 @@ lookupflag IgnoreMarks RightToLeft;
 } dlig_RTL;
 
 } dlig;
+
+feature zero {
+sub zero by zero.slash;
+} zero;
