@@ -3,22 +3,21 @@
   <advance width="343"/>
   <unicode hex="FBB4"/>
   <outline>
-    <component base="dotabove-ar" xOffset="-14" yOffset="-20"/>
-    <component base="dotabove-ar" xOffset="183" yOffset="-20"/>
+    <contour>
+      <point x="6" y="544" type="line"/>
+      <point x="140" y="544" type="line"/>
+      <point x="140" y="680" type="line"/>
+      <point x="6" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="544" type="line"/>
+      <point x="337" y="544" type="line"/>
+      <point x="337" y="680" type="line"/>
+      <point x="203" y="680" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dotabove-ar</string>
-        </dict>
-      </array>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
     </dict>
