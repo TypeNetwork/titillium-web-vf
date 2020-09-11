@@ -9,18 +9,6 @@
       <point x="128" y="41" type="line"/>
     </contour>
     <contour>
-      <point x="248" y="-65" type="line"/>
-      <point x="316" y="-65" type="line"/>
-      <point x="316" y="31" type="line"/>
-      <point x="248" y="31" type="line"/>
-    </contour>
-    <contour>
-      <point x="248" y="635" type="line"/>
-      <point x="316" y="635" type="line"/>
-      <point x="316" y="731" type="line"/>
-      <point x="248" y="731" type="line"/>
-    </contour>
-    <contour>
       <point x="378" y="625" type="line"/>
       <point x="446" y="625" type="line"/>
       <point x="496" y="731" type="line"/>
