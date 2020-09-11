@@ -2590,7 +2590,7 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>percent-ar</string>
       <string>apostrophemod</string>
       <string>commaturnedmod</string>
-      <string>commaaccent</string>
+      <string>commaaccentcomb</string>
       <string>dieresis</string>
       <string>dotaccent</string>
       <string>grave</string>
@@ -2775,7 +2775,7 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>uniFC6B</string>
       <key>comma-ar</key>
       <string>uni060C</string>
-      <key>commaaccent</key>
+      <key>commaaccentcomb</key>
       <string>uni0326</string>
       <key>commaturnedmod</key>
       <string>uni02BB</string>

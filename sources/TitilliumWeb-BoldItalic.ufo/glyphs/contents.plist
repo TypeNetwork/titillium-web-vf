@@ -460,8 +460,8 @@
     <string>comma.glif</string>
     <key>comma-ar</key>
     <string>comma-ar.glif</string>
-    <key>commaaccent</key>
-    <string>commaaccent.glif</string>
+    <key>commaaccentcomb</key>
+    <string>commaaccentcomb.glif</string>
     <key>commaturnedmod</key>
     <string>commaturnedmod.glif</string>
     <key>connection_l</key>
