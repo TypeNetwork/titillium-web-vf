@@ -14,7 +14,12 @@
       <point x="496" y="731" type="line"/>
       <point x="428" y="731" type="line"/>
     </contour>
-    <component base="period" xScale="0.2" yScale="0.2" xOffset="246" yOffset="309"/>
+    <contour>
+      <point x="251" y="309" type="line"/>
+      <point x="297" y="309" type="line"/>
+      <point x="297" y="349" type="line"/>
+      <point x="251" y="349" type="line"/>
+    </contour>
     <component base="zero"/>
   </outline>
   <lib>

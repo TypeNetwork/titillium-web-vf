@@ -3,8 +3,18 @@
   <advance width="495"/>
   <unicode hex="FBB4"/>
   <outline>
-    <component base="dotabove-ar" xScale="0.93352" xOffset="-3" yOffset="-20"/>
-    <component base="dotabove-ar" xScale="0.93352" xOffset="251" yOffset="-20"/>
+    <contour>
+      <point x="16" y="517" type="line"/>
+      <point x="227" y="517" type="line"/>
+      <point x="227" y="670" type="line"/>
+      <point x="16" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="517" type="line"/>
+      <point x="481" y="517" type="line"/>
+      <point x="481" y="670" type="line"/>
+      <point x="270" y="670" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
