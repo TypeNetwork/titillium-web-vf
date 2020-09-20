@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="615"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <contour>
+      <point x="525" y="781" type="line"/>
+      <point x="645" y="781" type="line"/>
+      <point x="677" y="916" type="line"/>
+      <point x="556" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="781" type="line"/>
+      <point x="441" y="781" type="line"/>
+      <point x="473" y="916" type="line"/>
+      <point x="352" y="916" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

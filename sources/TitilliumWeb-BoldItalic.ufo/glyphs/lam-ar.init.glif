@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.init" format="2">
+  <advance width="353"/>
+  <unicode hex="FEDF"/>
+  <anchor x="297" y="-100" name="bottom"/>
+  <anchor x="96" y="770" name="top"/>
+  <outline>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="341" y="0" type="line" name="hr00"/>
+      <point x="179" y="700" type="line"/>
+      <point x="45" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="180" y="120" type="line"/>
+      <point x="30" y="120" type="line"/>
+    </contour>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

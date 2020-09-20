@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="353"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="337" y="429" type="line"/>
+      <point x="460" y="429" type="line"/>
+      <point x="520" y="680" type="line" name="hr00"/>
+      <point x="398" y="680" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

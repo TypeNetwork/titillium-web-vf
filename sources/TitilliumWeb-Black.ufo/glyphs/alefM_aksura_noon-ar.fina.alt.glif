@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura_noon-ar.fina.alt" format="2">
+  <advance width="1270"/>
+  <anchor x="1007" y="-60" name="bottom_1"/>
+  <anchor x="367" y="-330" name="bottom_2"/>
+  <anchor x="376.5" y="0" name="caret_1"/>
+  <anchor x="1007" y="573" name="top_1"/>
+  <anchor x="367" y="811" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="895" y="0" type="line"/>
+      <point x="1270" y="0" type="line"/>
+      <point x="1270" y="188" type="line"/>
+      <point x="973" y="188" type="line"/>
+      <point x="1119" y="66" type="line"/>
+      <point x="1119" y="505" type="line"/>
+      <point x="895" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="216" type="line"/>
+      <point x="895" y="216" type="line"/>
+      <point x="895" y="404" type="line"/>
+      <point x="693" y="404" type="line"/>
+    </contour>
+    <component base="noon-ar"/>
+    <component base="connection_r" xOffset="1220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noon-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

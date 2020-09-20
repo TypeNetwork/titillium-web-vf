@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdowncenter-ar.alt" format="2">
+  <advance width="363"/>
+  <anchor x="182" y="266" name="_center"/>
+  <outline>
+    <contour>
+      <point x="150" y="245" type="line"/>
+      <point x="150" y="177" type="line"/>
+      <point x="216" y="177" type="line"/>
+      <point x="216" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="343" type="line"/>
+      <point x="93" y="269" type="line"/>
+      <point x="166" y="269" type="line"/>
+      <point x="166" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="343" type="line"/>
+      <point x="200" y="269" type="line"/>
+      <point x="273" y="269" type="line"/>
+      <point x="273" y="343" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven-persian.urdu" format="2">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="460" y="120" type="line"/>
+      <point x="184" y="120" type="line"/>
+      <point x="220" y="89" type="line"/>
+      <point x="264" y="625" type="line"/>
+      <point x="131" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

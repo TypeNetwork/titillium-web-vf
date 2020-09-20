@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.cap" format="2">
+  <advance width="424"/>
+  <outline>
+    <contour>
+      <point x="273" y="835" type="line"/>
+      <point x="543" y="835" type="line"/>
+      <point x="550" y="861" type="line"/>
+      <point x="278" y="861" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
