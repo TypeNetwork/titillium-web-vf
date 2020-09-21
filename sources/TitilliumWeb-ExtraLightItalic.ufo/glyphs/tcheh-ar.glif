@@ -3,8 +3,8 @@
   <advance width="569"/>
   <unicode hex="0686"/>
   <outline>
-    <component base="hah-ar"/>
     <component base="threedotsdowncenter-ar.alt" xOffset="434" yOffset="-392"/>
+    <component base="hah-ar.alt"/>
   </outline>
   <lib>
     <dict>

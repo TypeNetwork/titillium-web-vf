@@ -5,8 +5,8 @@
   <anchor x="431" y="-400" name="bottom"/>
   <anchor x="206" y="573" name="top"/>
   <outline>
-    <component base="hah-ar"/>
-    <component base="dotcenter-ar" xOffset="422" yOffset="-484"/>
+    <component base="hah-ar.alt"/>
+    <component base="dotcenter-ar.alt" xOffset="422" yOffset="-484"/>
   </outline>
   <lib>
     <dict>
