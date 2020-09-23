@@ -1834,6 +1834,10 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4537491216</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -2662,6 +2666,22 @@ Wt1 Sl1:sist.stems, altez  com.typemytype.robofont.guides</key>
       <string>DLE</string>
       <string>connection_r</string>
       <string>connection_l</string>
+      <string>hah-ar.alt</string>
+      <string>hah-ar.fina.alt</string>
+      <string>alefMaksura-ar.init</string>
+      <string>alefMaksura-ar.medi</string>
+      <string>dotabove-ar.comb</string>
+      <string>dotbelow-ar.comb</string>
+      <string>twodotshorizontalabove-ar.comb</string>
+      <string>twodotshorizontalbelow-ar.comb</string>
+      <string>threedotsupabove-ar.comb</string>
+      <string>threedotsupbelow-ar.comb</string>
+      <string>threedotsdownabove-ar.comb</string>
+      <string>threedotsdownbelow-ar.comb</string>
+      <string>twodotsverticalabove-ar.comb</string>
+      <string>twodotsverticalbelow-ar.comb</string>
+      <string>dotcenter-ar.alt</string>
+      <string>threedotsdowncenter-ar.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

@@ -12,6 +12,8 @@
     <integer>-200</integer>
     <key>familyName</key>
     <string>Titillium Web</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -61,6 +63,10 @@
       <integer>1240</integer>
       <integer>1253</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-545</integer>

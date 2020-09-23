@@ -10,5 +10,9 @@
       <string>Mar 18 19, 19:44</string>
       <string>glyphs.M_ar 18 19, 19_44</string>
     </array>
+    <array>
+      <string>background</string>
+      <string>glyphs.background</string>
+    </array>
   </array>
 </plist>

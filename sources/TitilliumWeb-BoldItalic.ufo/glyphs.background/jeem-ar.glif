@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem-ar" format="2">
+  <advance width="595"/>
+  <outline>
+    <contour>
+      <point x="403" y="-153" type="line"/>
+      <point x="503" y="-153" type="line"/>
+      <point x="479" y="-51" type="line"/>
+      <point x="378" y="-51" type="line"/>
+    </contour>
+    <component base="dotcenter-ar.alt" xOffset="374" yOffset="-448"/>
+  </outline>
+</glyph>
