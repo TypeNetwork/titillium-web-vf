@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="481.57575757575756"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="373.3636363636364" y="401.90909090909093" type="line"/>
+      <point x="357.030303030303" y="346.3030303030303" type="line"/>
+      <point x="447.6363636363636" y="244.3030303030303" type="line"/>
+      <point x="311.1515151515151" y="152.03030303030303" type="line"/>
+      <point x="293.09090909090907" y="89.21212121212122" type="line"/>
+      <point x="496.8787878787879" y="225.6969696969697" type="line"/>
+      <point x="508.5151515151515" y="257.1515151515151" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.57575757575756" y="401.90909090909093" type="line"/>
+      <point x="138.24242424242425" y="346.3030303030303" type="line"/>
+      <point x="228.84848484848484" y="244.3030303030303" type="line"/>
+      <point x="92.36363636363636" y="152.03030303030303" type="line"/>
+      <point x="74.3030303030303" y="89.21212121212122" type="line"/>
+      <point x="278.09090909090907" y="225.6969696969697" type="line"/>
+      <point x="289.72727272727275" y="257.1515151515151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

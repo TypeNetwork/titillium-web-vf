@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaaboveFatha-ar" format="2">
+  <advance width="233.8235294117647"/>
+  <anchor x="116.91176470588235" y="494.0980392156863" name="_top"/>
+  <anchor x="116.91176470588235" y="807.9117647058823" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar"/>
+    <component base="fatha-ar" xOffset="0.5980392156862745" yOffset="180.41176470588235"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

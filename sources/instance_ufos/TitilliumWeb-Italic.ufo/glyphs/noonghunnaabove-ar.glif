@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunnaabove-ar" format="2">
+  <unicode hex="0658"/>
+  <anchor x="92.92929292929293" y="376.3030303030303" name="_top"/>
+  <anchor x="39.696969696969695" y="605.2525252525253" name="top"/>
+  <outline>
+    <contour>
+      <point x="22.818181818181817" y="502.3636363636364" type="curve"/>
+      <point x="-34.0" y="510.19191919191917" type="line"/>
+      <point x="-24.78787878787879" y="433.19191919191917"/>
+      <point x="-10.383838383838384" y="376.3030303030303"/>
+      <point x="84.27272727272727" y="376.3030303030303" type="curve" smooth="yes"/>
+      <point x="137.47474747474746" y="376.3030303030303"/>
+      <point x="176.41414141414143" y="405.6161616161616"/>
+      <point x="176.41414141414143" y="445.0" type="curve" smooth="yes"/>
+      <point x="176.41414141414143" y="459.6161616161616"/>
+      <point x="169.22222222222223" y="483.5959595959596"/>
+      <point x="159.62626262626262" y="509.5959595959596" type="curve"/>
+      <point x="102.8080808080808" y="502.3636363636364" type="line"/>
+      <point x="120.78787878787878" y="454.5959595959596"/>
+      <point x="130.93939393939394" y="428.8888888888889"/>
+      <point x="84.6969696969697" y="428.8888888888889" type="curve" smooth="yes"/>
+      <point x="33.2020202020202" y="428.8888888888889"/>
+      <point x="25.818181818181817" y="461.06060606060606"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>219</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

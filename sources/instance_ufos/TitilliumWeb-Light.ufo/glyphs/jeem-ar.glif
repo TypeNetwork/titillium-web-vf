@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem-ar" format="2">
+  <advance width="575.6274509803922"/>
+  <unicode hex="062C"/>
+  <outline>
+    <component base="hah-ar.alt"/>
+    <component base="dotcenter-ar.alt" xOffset="285.94117647058823" yOffset="-478.1372549019608"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

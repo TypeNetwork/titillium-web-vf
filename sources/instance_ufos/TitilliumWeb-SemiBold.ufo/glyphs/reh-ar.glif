@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reh-ar" format="2">
+  <advance width="266.3529411764706"/>
+  <unicode hex="0631"/>
+  <anchor x="95.02941176470588" y="-350.0" name="bottom"/>
+  <anchor x="147.2941176470588" y="573.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="18.058823529411764" y="-247.0" type="curve" smooth="yes"/>
+      <point x="126.05882352941177" y="-247.0"/>
+      <point x="201.05882352941177" y="-165.0"/>
+      <point x="201.05882352941177" y="-42.0" type="curve" smooth="yes"/>
+      <point x="201.05882352941177" y="500.0" type="line"/>
+      <point x="93.26470588235294" y="500.0" type="line"/>
+      <point x="93.26470588235294" y="-42.0" type="line" smooth="yes"/>
+      <point x="93.26470588235294" y="-112.6470588235294"/>
+      <point x="62.94117647058823" y="-149.76470588235293"/>
+      <point x="18.058823529411764" y="-149.76470588235293" type="curve" smooth="yes"/>
+      <point x="8.205882352941176" y="-149.76470588235293"/>
+      <point x="-5.647058823529411" y="-148.5"/>
+      <point x="-25.852941176470587" y="-146.5" type="curve"/>
+      <point x="-37.94117647058823" y="-243.0" type="line"/>
+      <point x="-19.941176470588236" y="-245.0"/>
+      <point x="1.0588235294117645" y="-247.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

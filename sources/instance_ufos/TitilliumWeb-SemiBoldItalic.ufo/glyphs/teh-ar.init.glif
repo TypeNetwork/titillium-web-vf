@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.init" format="2">
+  <advance width="298.2525252525253"/>
+  <unicode hex="FE97"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="twodotshorizontalabove-ar.comb" xOffset="21.14141414141414" yOffset="8.545454545454547"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaaboveDammatan-ar" format="2">
+  <advance width="334.3235294117647"/>
+  <anchor x="167.2941176470588" y="476.7647058823529" name="_top"/>
+  <anchor x="167.2941176470588" y="960.7058823529412" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="31.38235294117647"/>
+    <component base="dammatan-ar" yOffset="216.41176470588235"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

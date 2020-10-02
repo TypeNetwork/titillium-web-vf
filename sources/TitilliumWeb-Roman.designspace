@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="600">
-      <map input="200" output="36"/>
-      <map input="300" output="64"/>
-      <map input="400" output="100"/>
-      <map input="600" output="138"/>
-      <map input="700" output="190"/>
-      <map input="900" output="232"/>
+    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="700">
+      <map input="200" output="36"/> 
+      <map input="300" output="62"/> 
+      <map input="400" output="77"/> 
+      <map input="600" output="111"/> 
+      <map input="700" output="138"/> 
+      <map input="900" output="232"/> 
     </axis>
   </axes>
   <sources>
@@ -16,7 +16,7 @@
         <dimension name="Weight" xvalue="36"/>
       </location>
     </source>
-    <source filename="TitilliumWeb-SemiBold.ufo" name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold">
+    <source filename="TitilliumWeb-Bold.ufo" name="Titillium Web Bold" familyname="Titillium Web" stylename="Bold">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -41,28 +41,28 @@
     </instance>
     <instance name="Titillium Web Light" familyname="Titillium Web" stylename="Light" filename="instance_ufos/TitilliumWeb-Light.ufo" stylemapfamilyname="Titillium Web Light" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="64"/>
+        <dimension name="Weight" xvalue="62"/>
       </location>
       <kerning/>
       <info/>
     </instance>
     <instance name="Titillium Web Regular" familyname="Titillium Web" stylename="Regular" filename="instance_ufos/TitilliumWeb-Regular.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="77"/>
       </location>
       <kerning/>
       <info/>
     </instance>
     <instance name="Titillium Web SemiBold" familyname="Titillium Web" stylename="SemiBold" filename="instance_ufos/TitilliumWeb-SemiBold.ufo" stylemapfamilyname="Titillium Web SemiBold" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="138"/>
+        <dimension name="Weight" xvalue="111"/>
       </location>
       <kerning/>
       <info/>
     </instance>
     <instance name="Titillium Web Bold" familyname="Titillium Web" stylename="Bold" filename="instance_ufos/TitilliumWeb-Bold.ufo" stylemapfamilyname="Titillium Web" stylemapstylename="bold">
       <location>
-        <dimension name="Weight" xvalue="190"/>
+        <dimension name="Weight" xvalue="138"/>
       </location>
       <kerning/>
       <info/>

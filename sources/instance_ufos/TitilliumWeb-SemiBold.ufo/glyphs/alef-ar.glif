@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar" format="2">
+  <advance width="293.0882352941176"/>
+  <unicode hex="0627"/>
+  <anchor x="146.6764705882353" y="-60.0" name="bottom"/>
+  <anchor x="146.6764705882353" y="745.3529411764706" name="top"/>
+  <outline>
+    <contour>
+      <point x="92.6470588235294" y="0.0" type="line"/>
+      <point x="200.44117647058823" y="0.0" type="line"/>
+      <point x="200.44117647058823" y="707.9411764705883" type="line"/>
+      <point x="92.6470588235294" y="707.9411764705883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

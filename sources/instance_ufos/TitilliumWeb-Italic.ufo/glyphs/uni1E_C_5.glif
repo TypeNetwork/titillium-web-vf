@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EC5" format="2">
+  <advance width="461.6969696969697"/>
+  <unicode hex="1EC5"/>
+  <outline>
+    <component base="tilde" xOffset="55.92929292929293" yOffset="124.24242424242425"/>
+    <component base="e"/>
+    <component base="circumflex" xOffset="-150.78787878787878" yOffset="-30.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

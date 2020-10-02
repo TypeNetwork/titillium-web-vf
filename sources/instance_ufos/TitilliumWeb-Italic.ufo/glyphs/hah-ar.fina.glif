@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.fina" format="2">
+  <advance width="627.1818181818181"/>
+  <unicode hex="FEA2"/>
+  <outline>
+    <contour>
+      <point x="577.5050505050505" y="0.0" type="line"/>
+      <point x="685.1818181818181" y="0.0" type="line"/>
+      <point x="669.10101010101" y="68.74747474747474" type="line"/>
+      <point x="561.4242424242424" y="68.74747474747474" type="line"/>
+    </contour>
+    <component base="hah-ar"/>
+    <component base="connection_r" xOffset="577.1818181818181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

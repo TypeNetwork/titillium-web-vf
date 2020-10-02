@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdowncenter-ar" format="2">
+  <advance width="313.2525252525253"/>
+  <anchor x="70.52525252525253" y="259.989898989899" name="_center"/>
+  <outline>
+    <component base="threedotsdownabove-ar.comb" yOffset="-293.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

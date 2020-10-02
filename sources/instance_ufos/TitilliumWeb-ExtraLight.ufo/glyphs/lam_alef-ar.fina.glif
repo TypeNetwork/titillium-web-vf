@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar.fina" format="2">
+  <advance width="613"/>
+  <unicode hex="FEFC"/>
+  <outline>
+    <contour>
+      <point x="513" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="34" type="line"/>
+      <point x="513" y="34" type="line"/>
+    </contour>
+    <component base="lam_alef-ar"/>
+    <component base="connection_r" xOffset="563"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

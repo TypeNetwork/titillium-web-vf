@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="528.6666666666666"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="592.2121212121212" y="467.6363636363636" type="line"/>
+      <point x="646.2727272727273" y="467.6363636363636" type="line"/>
+      <point x="699.4545454545455" y="695.1515151515151" type="line"/>
+      <point x="645.6363636363636" y="695.1515151515151" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

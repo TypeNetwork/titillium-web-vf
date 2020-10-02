@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.cap" format="2">
+  <advance width="263.7450980392157"/>
+  <outline>
+    <contour>
+      <point x="109.14705882352942" y="785.0" type="curve"/>
+      <point x="37.166666666666664" y="785.0" type="line"/>
+      <point x="78.16666666666667" y="684.0098039215686"/>
+      <point x="132.16666666666666" y="498.61764705882354"/>
+      <point x="132.16666666666666" y="359.0" type="curve" smooth="yes"/>
+      <point x="132.16666666666666" y="218.18627450980392"/>
+      <point x="78.16666666666667" y="19.990196078431374"/>
+      <point x="37.166666666666664" y="-90.0" type="curve"/>
+      <point x="109.14705882352942" y="-90.0" type="line"/>
+      <point x="154.36274509803923" y="10.166666666666666"/>
+      <point x="213.7843137254902" y="201.7450980392157"/>
+      <point x="213.7843137254902" y="359.0" type="curve" smooth="yes"/>
+      <point x="213.7843137254902" y="516.2549019607843"/>
+      <point x="154.36274509803923" y="694.8333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

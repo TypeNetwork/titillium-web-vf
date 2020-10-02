@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaDamma-ar" format="2">
+  <advance width="293.1078431372549"/>
+  <anchor x="146.7549019607843" y="430.343137254902" name="_top"/>
+  <anchor x="146.7549019607843" y="817.5294117647059" name="top"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="damma-ar" xOffset="27.03921568627451" yOffset="73.36274509803923"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

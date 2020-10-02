@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar.init" format="2">
+  <advance width="651"/>
+  <unicode hex="FB94"/>
+  <anchor x="364" y="-100" name="bottom"/>
+  <anchor x="11" y="887" name="top"/>
+  <outline>
+    <contour>
+      <point x="-123" y="605" type="curve"/>
+      <point x="-59" y="536" type="line"/>
+      <point x="-36" y="620"/>
+      <point x="-13" y="695"/>
+      <point x="17" y="766" type="curve"/>
+      <point x="-53" y="805" type="line"/>
+      <point x="-87" y="724"/>
+      <point x="-99" y="686"/>
+    </contour>
+    <component base="keheh-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

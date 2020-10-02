@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.init" format="2">
+  <advance width="297.05882352941177"/>
+  <unicode hex="FBA8"/>
+  <outline>
+    <contour>
+      <point x="72.76470588235294" y="-281.0882352941176" type="line"/>
+      <point x="178.14705882352942" y="-281.0882352941176" type="line"/>
+      <point x="221.76470588235293" y="-59.0" type="line"/>
+      <point x="125.38235294117646" y="-59.0" type="line"/>
+    </contour>
+    <component base="behDotless-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

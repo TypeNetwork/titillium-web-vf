@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feh-ar" format="2">
+  <advance width="1042.5294117647059"/>
+  <unicode hex="0641"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="dotabove-ar.comb" xOffset="685.2647058823529" yOffset="-12.441176470588236"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="492.09090909090907"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="178.93939393939394" y="107.57575757575758" type="line"/>
+      <point x="428.93939393939394" y="107.57575757575758" type="line"/>
+      <point x="428.93939393939394" y="395.1515151515151" type="line"/>
+      <point x="178.93939393939394" y="395.1515151515151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

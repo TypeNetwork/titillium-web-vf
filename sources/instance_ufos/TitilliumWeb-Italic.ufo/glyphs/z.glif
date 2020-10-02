@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="417.57575757575756"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="38.17171717171717" y="0.0" type="line"/>
+      <point x="379.5959595959596" y="0.0" type="line"/>
+      <point x="395.4848484848485" y="65.13131313131314" type="line"/>
+      <point x="140.9090909090909" y="65.13131313131314" type="line"/>
+      <point x="481.1111111111111" y="436.0808080808081" type="line"/>
+      <point x="495.4040404040404" y="500.0" type="line"/>
+      <point x="153.97979797979798" y="500.0" type="line"/>
+      <point x="137.49494949494948" y="434.8686868686869" type="line"/>
+      <point x="389.85858585858585" y="434.8686868686869" type="line"/>
+      <point x="50.06060606060606" y="64.32323232323233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

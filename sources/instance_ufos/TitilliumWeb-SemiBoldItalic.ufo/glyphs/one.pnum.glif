@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.pnum" format="2">
+  <advance width="335.6666666666667"/>
+  <outline>
+    <contour>
+      <point x="182.04040404040404" y="0.0" type="line"/>
+      <point x="301.5050505050505" y="0.0" type="line"/>
+      <point x="425.5050505050505" y="500.0" type="line"/>
+      <point x="313.5151515151515" y="500.0" type="line"/>
+      <point x="90.35353535353535" y="376.7979797979798" type="line"/>
+      <point x="121.53535353535354" y="283.01010101010104" type="line"/>
+      <point x="272.86868686868684" y="365.3131313131313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

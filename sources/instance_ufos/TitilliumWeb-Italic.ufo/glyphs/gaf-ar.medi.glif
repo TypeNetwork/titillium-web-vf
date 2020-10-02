@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar.medi" format="2">
+  <advance width="655.89898989899"/>
+  <unicode hex="FB95"/>
+  <anchor x="348.90909090909093" y="-100.0" name="bottom"/>
+  <anchor x="10.313131313131315" y="867.4040404040404" name="top"/>
+  <outline>
+    <contour>
+      <point x="-56.19191919191919" y="548.3838383838383" type="curve"/>
+      <point x="-13.050505050505048" y="500.83838383838383" type="line"/>
+      <point x="13.525252525252526" y="597.9494949494949"/>
+      <point x="28.77777777777778" y="646.7272727272727"/>
+      <point x="68.31313131313132" y="741.5656565656566" type="curve"/>
+      <point x="22.151515151515156" y="767.4545454545455" type="line"/>
+      <point x="-11.848484848484844" y="687.0505050505051"/>
+      <point x="-28.02020202020202" y="639.5151515151515"/>
+    </contour>
+    <component base="keheh-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

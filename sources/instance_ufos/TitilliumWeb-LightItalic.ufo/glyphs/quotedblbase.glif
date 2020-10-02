@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="318.969696969697"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="quoteleft" xOffset="13.212121212121211" yOffset="606.1212121212121"/>
+    <component base="quoteleft" xOffset="165.03030303030303" yOffset="606.1212121212121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

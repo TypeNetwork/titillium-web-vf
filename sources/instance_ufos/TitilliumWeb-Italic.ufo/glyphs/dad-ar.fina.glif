@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.fina" format="2">
+  <advance width="1221.5151515151515"/>
+  <unicode hex="FEBE"/>
+  <outline>
+    <component base="sad-ar.fina"/>
+    <component base="dotabove-ar.comb" xOffset="774.4545454545455" yOffset="-39.27272727272727"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

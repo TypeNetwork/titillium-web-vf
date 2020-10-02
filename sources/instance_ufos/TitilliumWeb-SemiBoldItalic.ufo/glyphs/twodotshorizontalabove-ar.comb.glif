@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotshorizontalabove-ar.comb" format="2">
+  <advance width="290.22222222222223"/>
+  <anchor x="72.68686868686869" y="564.4545454545455" name="_top"/>
+  <anchor x="26.474747474747474" y="765.0505050505051" name="top"/>
+  <outline>
+    <component base="twodotshorizontalabove-ar"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddal-ar.fina" format="2">
+  <advance width="531.843137254902"/>
+  <unicode hex="FB89"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="tahabove-ar" xOffset="22.607843137254903" yOffset="99.29411764705883"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_alefMaksura-ar.fina" format="2">
+  <advance width="1543"/>
+  <unicode hex="FD17"/>
+  <outline>
+    <contour>
+      <point x="1501" y="0" type="line"/>
+      <point x="1601" y="0" type="line"/>
+      <point x="1593" y="34" type="line"/>
+      <point x="1493" y="34" type="line"/>
+    </contour>
+    <component base="seen_alefMaksura-ar"/>
+    <component base="connection_r" xOffset="1493"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

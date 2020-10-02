@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.cap" format="2">
+  <advance width="236.30392156862746"/>
+  <outline>
+    <contour>
+      <point x="9.598039215686274" y="864.4705882352941" type="line"/>
+      <point x="229.52941176470588" y="777.6960784313726" type="line"/>
+      <point x="251.76470588235293" y="831.2254901960785" type="line"/>
+      <point x="35.64705882352941" y="931.2450980392157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

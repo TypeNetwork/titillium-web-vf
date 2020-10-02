@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdownabove-ar" format="2">
+  <advance width="245.18627450980392"/>
+  <unicode hex="FBB8"/>
+  <outline>
+    <contour>
+      <point x="88.1078431372549" y="445.2549019607843" type="line"/>
+      <point x="158.078431372549" y="445.2549019607843" type="line"/>
+      <point x="158.078431372549" y="527.9901960784314" type="line"/>
+      <point x="88.1078431372549" y="527.9901960784314" type="line"/>
+    </contour>
+    <component base="twodotshorizontalabove-ar" xOffset="13.588235294117647" yOffset="-22.441176470588232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reh-ar.fina" format="2">
+  <advance width="315.62626262626264"/>
+  <unicode hex="FEAE"/>
+  <outline>
+    <contour>
+      <point x="258.42424242424244" y="0.0" type="line"/>
+      <point x="373.62626262626264" y="0.0" type="line"/>
+      <point x="350.67676767676767" y="98.28282828282829" type="line"/>
+      <point x="235.4747474747475" y="98.28282828282829" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+    <component base="connection_r" xOffset="265.62626262626264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

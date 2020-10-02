@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotless-ar.medi" format="2">
+  <advance width="627.5686274509804"/>
+  <outline>
+    <contour>
+      <point x="522.7254901960785" y="0.0" type="line"/>
+      <point x="627.5686274509804" y="0.0" type="line"/>
+      <point x="627.5686274509804" y="55.92156862745098" type="line"/>
+      <point x="522.7254901960785" y="55.92156862745098" type="line"/>
+    </contour>
+    <component base="fehDotless-ar.init"/>
+    <component base="connection_r" xOffset="577.5686274509804"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbutagoal-ar.fina" format="2">
+  <advance width="624"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+    <component base="twodotshorizontalabove-ar.comb" xOffset="114" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

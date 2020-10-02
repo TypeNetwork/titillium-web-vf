@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent-ar" format="2">
+  <advance width="560.0"/>
+  <unicode hex="066A"/>
+  <outline>
+    <contour>
+      <point x="202.7843137254902" y="-18.245098039215687" type="line"/>
+      <point x="408.48039215686276" y="665.2254901960785" type="line"/>
+      <point x="360.0" y="681.0588235294117" type="line"/>
+      <point x="154.90196078431373" y="-3.813725490196078" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.77450980392155" y="95.52941176470588" type="line"/>
+      <point x="464.12745098039215" y="95.52941176470588" type="line"/>
+      <point x="464.12745098039215" y="188.01960784313727" type="line"/>
+      <point x="376.77450980392155" y="188.01960784313727" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.49019607843138" y="496.30392156862746" type="line"/>
+      <point x="177.84313725490196" y="496.30392156862746" type="line"/>
+      <point x="177.84313725490196" y="588.7941176470588" type="line"/>
+      <point x="90.49019607843138" y="588.7941176470588" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

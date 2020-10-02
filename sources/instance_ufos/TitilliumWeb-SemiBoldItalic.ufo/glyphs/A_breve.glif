@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="552.2626262626262"/>
+  <unicode hex="0102"/>
+  <outline>
+    <component base="breve.cap" xOffset="61.74747474747475" yOffset="-0.2525252525252525"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.fina" format="2">
+  <advance width="575.5588235294117"/>
+  <unicode hex="FBA7"/>
+  <anchor x="272.2450980392157" y="-100.0" name="bottom"/>
+  <anchor x="272.2450980392157" y="573.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="40.0" y="0.0" type="line"/>
+      <point x="114.79411764705883" y="0.0" type="line"/>
+      <point x="114.79411764705883" y="250.0" type="line" smooth="yes"/>
+      <point x="114.79411764705883" y="399.51960784313724"/>
+      <point x="145.12745098039215" y="431.4313725490196"/>
+      <point x="263.0" y="431.4313725490196" type="curve" smooth="yes"/>
+      <point x="422.79411764705884" y="431.4313725490196" type="line"/>
+      <point x="393.12745098039215" y="465.11764705882354" type="line"/>
+      <point x="393.12745098039215" y="0.0" type="line"/>
+      <point x="575.5588235294117" y="0.0" type="line"/>
+      <point x="575.5588235294117" y="68.56862745098039" type="line"/>
+      <point x="449.30392156862746" y="68.56862745098039" type="line"/>
+      <point x="467.921568627451" y="50.14705882352941" type="line"/>
+      <point x="467.921568627451" y="500.0" type="line"/>
+      <point x="263.0" y="500.0" type="line" smooth="yes"/>
+      <point x="93.98039215686275" y="500.0"/>
+      <point x="40.0" y="429.1764705882353"/>
+      <point x="40.0" y="250.0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="connection_r" xOffset="525.5588235294117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

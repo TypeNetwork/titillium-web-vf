@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaAlefabove-ar" format="2">
+  <advance width="268.06060606060606"/>
+  <anchor x="91.60606060606061" y="434.969696969697" name="_top"/>
+  <anchor x="19.636363636363637" y="745.7272727272727" name="top"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="alefabove-ar" xOffset="63.09090909090909" yOffset="113.84848484848484"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

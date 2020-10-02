@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft.cap" format="2">
+  <advance width="357.02941176470586"/>
+  <outline>
+    <component base="braceleft" xOffset="0.2647058823529412" yOffset="30.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

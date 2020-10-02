@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="613.1176470588235"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="258.5" y="781.8235294117648" type="line"/>
+      <point x="366.29411764705884" y="781.8235294117648" type="line"/>
+      <point x="366.29411764705884" y="895.6470588235294" type="line"/>
+      <point x="258.5" y="895.6470588235294" type="line"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

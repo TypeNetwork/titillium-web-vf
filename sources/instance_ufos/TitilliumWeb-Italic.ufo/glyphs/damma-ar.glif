@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="damma-ar" format="2">
+  <unicode hex="064F"/>
+  <anchor x="52.26262626262626" y="542.89898989899" name="_top"/>
+  <anchor x="5.01010101010101" y="746.929292929293" name="top"/>
+  <outline>
+    <contour>
+      <point x="-7.191919191919192" y="573.5454545454545" type="curve"/>
+      <point x="41.94949494949495" y="580.1818181818181" type="line"/>
+      <point x="25.818181818181817" y="620.4646464646464"/>
+      <point x="31.858585858585858" y="635.2525252525253"/>
+      <point x="48.03030303030303" y="635.2525252525253" type="curve" smooth="yes"/>
+      <point x="71.03030303030303" y="635.2525252525253"/>
+      <point x="86.45454545454545" y="613.2323232323232"/>
+      <point x="89.07070707070707" y="572.9494949494949" type="curve"/>
+      <point x="138.02020202020202" y="576.010101010101" type="line"/>
+      <point x="131.36363636363637" y="640.7979797979798"/>
+      <point x="98.24242424242425" y="684.2020202020202"/>
+      <point x="46.03030303030303" y="684.2020202020202" type="curve" smooth="yes"/>
+      <point x="-9.81818181818182" y="684.2020202020202"/>
+      <point x="-28.343434343434343" y="635.9494949494949"/>
+    </contour>
+    <contour>
+      <point x="-48.97979797979798" y="546.5151515151515" type="line"/>
+      <point x="144.88888888888889" y="546.5151515151515" type="line"/>
+      <point x="133.25252525252526" y="596.2727272727273" type="line"/>
+      <point x="-60.61616161616162" y="596.2727272727273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>192</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefabove-ar" format="2">
+  <unicode hex="0670"/>
+  <anchor x="10.404040404040405" y="457.35353535353534" name="_top"/>
+  <anchor x="-36.82828282828282" y="659.030303030303" name="top"/>
+  <outline>
+    <contour>
+      <point x="-27.525252525252526" y="457.35353535353534" type="line"/>
+      <point x="47.58585858585859" y="457.35353535353534" type="line"/>
+      <point x="20.61616161616162" y="573.979797979798" type="line"/>
+      <point x="-54.494949494949495" y="573.979797979798" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>74</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

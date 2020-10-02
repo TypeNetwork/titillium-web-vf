@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaKasra-ar" format="2">
+  <advance width="293.4343434343434"/>
+  <anchor x="82.32323232323233" y="531.3838383838383" name="_top"/>
+  <anchor x="17.373737373737374" y="811.8383838383838" name="top"/>
+  <outline>
+    <component base="fatha-ar" xOffset="30.484848484848484" yOffset="-11.919191919191919"/>
+    <component base="shadda-ar" xOffset="-46.25252525252525" yOffset="187.32323232323233"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

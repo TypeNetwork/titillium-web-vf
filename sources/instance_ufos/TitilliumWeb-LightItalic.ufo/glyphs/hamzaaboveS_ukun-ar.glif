@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaaboveSukun-ar" format="2">
+  <advance width="227.75757575757575"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="6.818181818181818"/>
+    <component base="sukun-ar" xOffset="-56.39393939393939" yOffset="258.1212121212121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

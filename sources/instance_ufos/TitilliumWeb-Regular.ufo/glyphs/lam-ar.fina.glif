@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.fina" format="2">
+  <advance width="696.0"/>
+  <unicode hex="FEDE"/>
+  <outline>
+    <contour>
+      <point x="588.3627450980392" y="0.0" type="line"/>
+      <point x="696.0" y="0.0" type="line"/>
+      <point x="696.0" y="68.56862745098039" type="line"/>
+      <point x="588.3627450980392" y="68.56862745098039" type="line"/>
+    </contour>
+    <component base="lam-ar"/>
+    <component base="connection_r" xOffset="646.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

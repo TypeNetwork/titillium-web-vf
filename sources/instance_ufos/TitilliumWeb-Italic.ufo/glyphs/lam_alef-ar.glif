@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar" format="2">
+  <advance width="641.7878787878788"/>
+  <unicode hex="FEFB"/>
+  <anchor x="594.070707070707" y="-60.0" name="bottom_1"/>
+  <anchor x="310.1010101010101" y="-60.0" name="bottom_2"/>
+  <anchor x="387.1313131313131" y="0.0" name="caret_1"/>
+  <anchor x="402.3030303030303" y="769.070707070707" name="top_1"/>
+  <anchor x="151.12121212121212" y="626.3232323232323" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="98.0" y="0.0" type="line"/>
+      <point x="617.8686868686868" y="0.0" type="line"/>
+      <point x="451.6969696969697" y="717.8787878787879" type="line"/>
+      <point x="376.6969696969697" y="717.8787878787879" type="line"/>
+      <point x="535.8080808080808" y="24.242424242424242" type="line"/>
+      <point x="568.4646464646464" y="68.74747474747474" type="line"/>
+      <point x="81.91919191919192" y="68.74747474747474" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.22222222222223" y="68.74747474747474" type="line"/>
+      <point x="317.22222222222223" y="68.74747474747474" type="line"/>
+      <point x="199.91919191919192" y="575.7272727272727" type="line"/>
+      <point x="124.91919191919192" y="575.7272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

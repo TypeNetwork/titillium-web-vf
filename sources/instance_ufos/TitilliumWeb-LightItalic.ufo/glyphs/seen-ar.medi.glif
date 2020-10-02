@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen-ar.medi" format="2">
+  <advance width="825.3636363636364"/>
+  <unicode hex="FEB4"/>
+  <outline>
+    <contour>
+      <point x="778.7575757575758" y="0.0" type="line"/>
+      <point x="883.3636363636364" y="0.0" type="line"/>
+      <point x="870.5151515151515" y="54.848484848484844" type="line"/>
+      <point x="765.9090909090909" y="54.848484848484844" type="line"/>
+    </contour>
+    <component base="seen-ar.init"/>
+    <component base="connection_r" xOffset="775.3636363636364"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

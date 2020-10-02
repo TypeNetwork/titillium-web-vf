@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflex" format="2">
+  <advance width="461.6969696969697"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <contour>
+      <point x="219.56565656565658" y="586.9191919191919" type="line"/>
+      <point x="301.75757575757575" y="586.9191919191919" type="line"/>
+      <point x="390.74747474747477" y="672.969696969697" type="line"/>
+      <point x="438.5858585858586" y="586.9191919191919" type="line"/>
+      <point x="514.5656565656566" y="586.9191919191919" type="line"/>
+      <point x="427.969696969697" y="738.0808080808081" type="line"/>
+      <point x="374.45454545454544" y="738.0808080808081" type="line"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

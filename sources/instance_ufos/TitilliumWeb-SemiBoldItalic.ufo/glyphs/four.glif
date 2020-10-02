@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="560.0"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="337.65656565656565" y="-3.7373737373737375" type="line"/>
+      <point x="448.4040404040404" y="-3.7373737373737375" type="line"/>
+      <point x="476.16161616161617" y="117.05050505050505" type="line"/>
+      <point x="544.2424242424242" y="117.05050505050505" type="line"/>
+      <point x="566.4444444444445" y="210.59595959595958" type="line"/>
+      <point x="497.6161616161616" y="210.59595959595958" type="line"/>
+      <point x="542.1515151515151" y="404.25252525252523" type="line"/>
+      <point x="431.4040404040404" y="404.25252525252523" type="line"/>
+      <point x="386.86868686868684" y="210.59595959595958" type="line"/>
+      <point x="211.96969696969697" y="210.59595959595958" type="line"/>
+      <point x="506.62626262626264" y="660.0" type="line"/>
+      <point x="384.1515151515151" y="660.0" type="line"/>
+      <point x="91.98989898989899" y="199.12121212121212" type="line"/>
+      <point x="73.03030303030303" y="117.05050505050505" type="line"/>
+      <point x="365.4141414141414" y="117.05050505050505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammatan-ar" format="2">
+  <unicode hex="064C"/>
+  <anchor x="139.9607843137255" y="542.9509803921569" name="_top"/>
+  <anchor x="139.9607843137255" y="746.8627450980392" name="top"/>
+  <outline>
+    <contour>
+      <point x="44.61764705882353" y="542.9509803921569" type="line"/>
+      <point x="96.30392156862746" y="555.9705882352941" type="line"/>
+      <point x="71.68627450980392" y="644.2352941176471" type="line"/>
+      <point x="20.0" y="631.2156862745098" type="line"/>
+    </contour>
+    <contour>
+      <point x="44.61764705882353" y="542.9509803921569" type="line"/>
+      <point x="109.56862745098039" y="542.9509803921569" type="line"/>
+      <point x="109.56862745098039" y="592.6274509803922" type="line"/>
+      <point x="44.61764705882353" y="592.6274509803922" type="line"/>
+    </contour>
+    <component base="damma-ar" xOffset="39.490196078431374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>378</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

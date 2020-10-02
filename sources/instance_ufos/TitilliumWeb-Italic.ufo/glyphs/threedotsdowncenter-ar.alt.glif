@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdowncenter-ar.alt" format="2">
+  <advance width="245.59595959595958"/>
+  <anchor x="39.95959595959596" y="258.6161616161616" name="_center"/>
+  <outline>
+    <contour>
+      <point x="80.63636363636363" y="240.63636363636363" type="line"/>
+      <point x="27.454545454545453" y="240.63636363636363" type="line"/>
+      <point x="40.66666666666667" y="182.0" type="line"/>
+      <point x="93.84848484848484" y="182.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.80808080808081" y="335.2323232323232" type="line"/>
+      <point x="-46.01010101010101" y="335.2323232323232" type="line"/>
+      <point x="-31.393939393939394" y="272.55555555555554" type="line"/>
+      <point x="25.424242424242422" y="272.55555555555554" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.9090909090909" y="335.2323232323232" type="line"/>
+      <point x="55.09090909090909" y="335.2323232323232" type="line"/>
+      <point x="69.7070707070707" y="272.55555555555554" type="line"/>
+      <point x="126.52525252525253" y="272.55555555555554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

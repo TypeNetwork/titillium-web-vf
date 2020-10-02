@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-ar.medi" format="2">
+  <advance width="290.0686274509804"/>
+  <unicode hex="FEF4"/>
+  <outline>
+    <component base="behDotless-ar.medi.alt"/>
+    <component base="twodotshorizontalbelow-ar.comb" xOffset="35.529411764705884" yOffset="-66.02941176470588"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

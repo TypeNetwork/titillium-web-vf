@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.medi" format="2">
+  <advance width="575.9607843137255"/>
+  <unicode hex="FBA9"/>
+  <anchor x="288.48039215686276" y="-407.0" name="bottom"/>
+  <anchor x="288.48039215686276" y="282.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="467.5882352941177" y="-307.5882352941176" type="curve"/>
+      <point x="467.5882352941177" y="34.08823529411765" type="line"/>
+      <point x="433.5" y="0.0" type="line"/>
+      <point x="575.9607843137255" y="0.0" type="line"/>
+      <point x="575.9607843137255" y="68.56862745098039" type="line"/>
+      <point x="392.79411764705884" y="68.56862745098039" type="line"/>
+      <point x="392.79411764705884" y="-308.79411764705884" type="line"/>
+      <point x="439.87254901960785" y="-240.62745098039215" type="line"/>
+      <point x="391.0" y="-245.83333333333331"/>
+      <point x="365.2352941176471" y="-247.4313725490196"/>
+      <point x="342.04901960784315" y="-247.4313725490196" type="curve" smooth="yes"/>
+      <point x="225.33333333333334" y="-247.4313725490196"/>
+      <point x="191.18627450980392" y="-200.7156862745098"/>
+      <point x="186.1764705882353" y="68.56862745098039" type="curve"/>
+      <point x="0.0" y="68.56862745098039" type="line"/>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="145.47058823529412" y="0.0" type="line"/>
+      <point x="110.57843137254902" y="34.07843137254902" type="line"/>
+      <point x="112.7843137254902" y="-225.49019607843138"/>
+      <point x="167.3235294117647" y="-316.0"/>
+      <point x="341.2450980392157" y="-316.0" type="curve" smooth="yes"/>
+      <point x="373.27450980392155" y="-316.0"/>
+      <point x="419.3333333333333" y="-313.5980392156863"/>
+    </contour>
+    <component base="connection_r" xOffset="525.9607843137255"/>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
