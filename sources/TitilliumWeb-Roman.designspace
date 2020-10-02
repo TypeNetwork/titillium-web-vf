@@ -10,6 +10,34 @@
       <map input="900" output="232"/> 
     </axis>
   </axes>
+      <rules>
+    <rule name="bars">
+      <conditionset>
+        <condition name="Weight" minimum="138" maximum="232"/>
+      </conditionset>
+
+<sub name="dollar" with="dollar.rvrn"/>
+<sub name="cent" with="cent.rvrn"/>
+<sub name="Oslash" with="Oslash.rvrn"/>
+<sub name="oslash" with="Oslash.rvrn"/>
+
+    </rule>
+    
+    <rule name="angles">
+      <conditionset>
+        <condition name="Weight" minimum="138" maximum="232"/>
+      </conditionset>
+
+<sub name="acute" with="acute"/>
+<sub name="acute.cap" with="acute.cap"/>
+<sub name="grave" with="grave"/>
+<sub name="grave.cap" with="grave.cap"/>
+<sub name="guillemetleft" with="guillemetleft"/>
+<sub name="guillemetright" with="guillemetright"/>
+
+    </rule>
+    
+    </rules>
   <sources>
     <source filename="TitilliumWeb-ExtraLight.ufo" name="Titillium Web ExtraLight" familyname="Titillium Web" stylename="ExtraLight">
       <location>

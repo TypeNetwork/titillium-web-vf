@@ -2820,7 +2820,6 @@ Wt1
       <string>percent-ar</string>
       <string>apostrophemod</string>
       <string>commaturnedmod</string>
-      <string>commaaccent</string>
       <string>dieresis</string>
       <string>dotaccent</string>
       <string>grave</string>
@@ -2905,6 +2904,10 @@ Wt1
       <string>twodotsverticalbelow-ar.comb</string>
       <string>dotcenter-ar.alt</string>
       <string>threedotsdowncenter-ar.alt</string>
+      <string>dollar.rvrn</string>
+      <string>cent.rvrn</string>
+      <string>Oslash.rvrn</string>
+      <string>oslash.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

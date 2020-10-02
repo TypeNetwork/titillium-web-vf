@@ -546,6 +546,8 @@
     <string>divisionslash.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.rvrn</key>
+    <string>dollar.rvrn.glif</string>
     <key>dotabove-ar</key>
     <string>dotabove-ar.glif</string>
     <key>dotabove-ar.comb</key>
