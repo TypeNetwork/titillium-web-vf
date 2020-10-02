@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefMaksura-ar.fina" format="2">
+  <advance width="1095.4040404040404"/>
+  <unicode hex="FC86"/>
+  <outline>
+    <contour>
+      <point x="1039.2020202020203" y="0.0" type="line"/>
+      <point x="1153.4040404040404" y="0.0" type="line"/>
+      <point x="1130.4545454545455" y="98.28282828282829" type="line"/>
+      <point x="1016.2525252525253" y="98.28282828282829" type="line"/>
+    </contour>
+    <component base="lam_alefMaksura-ar"/>
+    <component base="connection_r" xOffset="1045.4040404040404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-40ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon_noon-ar.fina" format="2">
+  <advance width="986.5656565656566"/>
+  <unicode hex="FC8D"/>
+  <anchor x="793.8484848484849" y="-60.0" name="bottom_1"/>
+  <anchor x="298.0" y="-350.0" name="bottom_2"/>
+  <anchor x="500.27777777777777" y="0.0" name="caret_1"/>
+  <anchor x="793.8484848484849" y="761.3131313131313" name="top_1"/>
+  <anchor x="298.0" y="692.0" name="top_2"/>
+  <outline>
+    <component base="alefMaksura_noon-ar.fina"/>
+    <component base="dotabove-ar.comb" xOffset="792.2121212121212" yOffset="-39.27272727272727"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar.comb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noon-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>noon-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

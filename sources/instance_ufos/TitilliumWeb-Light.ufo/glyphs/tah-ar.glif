@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar" format="2">
+  <advance width="753.0588235294117"/>
+  <unicode hex="0637"/>
+  <anchor x="389.72549019607845" y="-100.0" name="bottom"/>
+  <anchor x="389.72549019607845" y="573.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="20.0" y="0.0" type="line"/>
+      <point x="675.6078431372549" y="0.0" type="line"/>
+      <point x="675.6078431372549" y="241.0" type="line" smooth="yes"/>
+      <point x="675.6078431372549" y="353.0"/>
+      <point x="632.6078431372549" y="500.0"/>
+      <point x="442.6078431372549" y="500.0" type="curve" smooth="yes"/>
+      <point x="276.6078431372549" y="500.0"/>
+      <point x="196.60784313725492" y="388.0"/>
+      <point x="113.6078431372549" y="285.0" type="curve"/>
+      <point x="139.58823529411765" y="234.4313725490196" type="line"/>
+      <point x="212.58823529411765" y="325.88235294117646"/>
+      <point x="297.3333333333333" y="444.078431372549"/>
+      <point x="441.8627450980392" y="444.078431372549" type="curve" smooth="yes"/>
+      <point x="557.5490196078431" y="444.078431372549"/>
+      <point x="615.3725490196078" y="374.03921568627453"/>
+      <point x="615.3725490196078" y="241.0" type="curve" smooth="yes"/>
+      <point x="615.3725490196078" y="7.450980392156863" type="line"/>
+      <point x="668.156862745098" y="55.92156862745098" type="line"/>
+      <point x="20.0" y="55.92156862745098" type="line"/>
+    </contour>
+    <contour>
+      <point x="86.49019607843137" y="55.92156862745098" type="line"/>
+      <point x="146.72549019607843" y="55.92156862745098" type="line"/>
+      <point x="146.72549019607843" y="722.3529411764706" type="line"/>
+      <point x="86.49019607843137" y="722.3529411764706" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

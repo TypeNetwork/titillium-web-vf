@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.cap.001" format="2">
+  <advance width="433.2121212121212"/>
+  <outline>
+    <contour>
+      <point x="252.3939393939394" y="797.1818181818181" type="line"/>
+      <point x="317.8787878787879" y="797.1818181818181" type="line"/>
+      <point x="423.06060606060606" y="884.0" type="line"/>
+      <point x="484.6666666666667" y="797.1818181818181" type="line"/>
+      <point x="540.0" y="797.1818181818181" type="line"/>
+      <point x="443.24242424242425" y="931.0" type="line"/>
+      <point x="413.24242424242425" y="931.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

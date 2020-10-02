@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three-persian" format="2">
+  <advance width="688.1515151515151"/>
+  <unicode hex="06F3"/>
+  <outline>
+    <component base="three-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

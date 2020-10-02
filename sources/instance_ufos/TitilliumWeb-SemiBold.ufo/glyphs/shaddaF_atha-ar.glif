@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaFatha-ar" format="2">
+  <advance width="345.44117647058823"/>
+  <anchor x="173.08823529411765" y="420.6764705882353" name="_top"/>
+  <anchor x="173.08823529411765" y="754.5294117647059" name="top"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="fatha-ar" xOffset="37.44117647058823" yOffset="95.73529411764706"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

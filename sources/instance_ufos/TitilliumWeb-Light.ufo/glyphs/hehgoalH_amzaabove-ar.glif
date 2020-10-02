@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoalHamzaabove-ar" format="2">
+  <advance width="572.8235294117648"/>
+  <unicode hex="06C2"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="hamzaabove-ar" xOffset="177.88235294117646" yOffset="71.25490196078431"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

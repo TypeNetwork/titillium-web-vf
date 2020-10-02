@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behDotless-ar.init.alt" format="2">
+  <advance width="264.3921568627451"/>
+  <anchor x="145.33333333333334" y="-60.0" name="bottom"/>
+  <anchor x="145.33333333333334" y="573.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="182.4313725490196" y="0.0" type="line"/>
+      <point x="182.4313725490196" y="500.0" type="line"/>
+      <point x="107.63725490196079" y="500.0" type="line"/>
+      <point x="107.63725490196079" y="40.09803921568627" type="line"/>
+      <point x="142.33333333333334" y="68.56862745098039" type="line"/>
+      <point x="0.0" y="68.56862745098039" type="line"/>
+    </contour>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

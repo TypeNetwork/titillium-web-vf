@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="decimalseparator-ar" format="2">
+  <advance width="246.33333333333334"/>
+  <unicode hex="066B"/>
+  <outline>
+    <contour>
+      <point x="159.74747474747474" y="-129.74747474747474" type="line"/>
+      <point x="249.78787878787878" y="-129.74747474747474" type="line"/>
+      <point x="205.52525252525254" y="135.32323232323233" type="line"/>
+      <point x="85.54545454545455" y="135.32323232323233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

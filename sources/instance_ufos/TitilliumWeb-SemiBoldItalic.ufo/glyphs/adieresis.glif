@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis" format="2">
+  <advance width="516.3838383838383"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <contour>
+      <point x="404.5858585858586" y="609.0808080808081" type="line"/>
+      <point x="502.86868686868684" y="609.0808080808081" type="line"/>
+      <point x="530.5757575757576" y="726.4040404040404" type="line"/>
+      <point x="431.54545454545456" y="726.4040404040404" type="line"/>
+    </contour>
+    <contour>
+      <point x="297.55555555555554" y="609.0808080808081" type="line"/>
+      <point x="395.3333333333333" y="609.0808080808081" type="line"/>
+      <point x="423.04040404040404" y="726.4040404040404" type="line"/>
+      <point x="324.01010101010104" y="726.4040404040404" type="line"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

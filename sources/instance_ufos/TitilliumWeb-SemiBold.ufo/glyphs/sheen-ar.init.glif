@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.init" format="2">
+  <advance width="874.2352941176471"/>
+  <unicode hex="FEB7"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar.comb" xOffset="308.9117647058824" yOffset="7.5588235294117645"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

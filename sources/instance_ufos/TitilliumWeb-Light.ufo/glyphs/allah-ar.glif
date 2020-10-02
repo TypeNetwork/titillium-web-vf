@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="allah-ar" format="2">
+  <advance width="1255.8823529411766"/>
+  <unicode hex="FDF2"/>
+  <anchor x="926.8823529411765" y="-100.0" name="bottom_1"/>
+  <anchor x="676.1764705882352" y="-100.0" name="bottom_2"/>
+  <anchor x="271.843137254902" y="-100.0" name="bottom_3"/>
+  <anchor x="313.97058823529414" y="0.0" name="caret_1"/>
+  <anchor x="627.9411764705883" y="0.0" name="caret_2"/>
+  <anchor x="941.9117647058823" y="0.0" name="caret_3"/>
+  <anchor x="926.8823529411765" y="828.0" name="top_1"/>
+  <anchor x="676.1764705882352" y="964.8235294117646" name="top_2"/>
+  <anchor x="271.843137254902" y="567.0" name="top_3"/>
+  <outline>
+    <contour>
+      <point x="645.686274509804" y="0.0" type="line"/>
+      <point x="705.9215686274509" y="0.0" type="line"/>
+      <point x="705.9215686274509" y="614.313725490196" type="line"/>
+      <point x="645.686274509804" y="614.313725490196" type="line"/>
+    </contour>
+    <contour>
+      <point x="533.1960784313726" y="0.0" type="line"/>
+      <point x="645.686274509804" y="0.0" type="line"/>
+      <point x="645.686274509804" y="55.92156862745098" type="line"/>
+      <point x="533.1960784313726" y="55.92156862745098" type="line"/>
+    </contour>
+    <contour>
+      <point x="705.9215686274509" y="0.0" type="line"/>
+      <point x="810.7647058823529" y="0.0" type="line"/>
+      <point x="810.7647058823529" y="55.92156862745098" type="line"/>
+      <point x="705.9215686274509" y="55.92156862745098" type="line"/>
+    </contour>
+    <component base="alef-ar" xOffset="1000.7450980392157"/>
+    <component base="heh-ar.fina"/>
+    <component base="shaddaAlefabove-ar" xOffset="540.2941176470588" yOffset="232.05882352941177"/>
+    <component base="lam-ar.init" xOffset="778.0196078431372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

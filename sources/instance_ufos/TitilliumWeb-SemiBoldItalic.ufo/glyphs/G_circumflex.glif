@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex" format="2">
+  <advance width="569.7676767676768"/>
+  <unicode hex="011C"/>
+  <outline>
+    <contour>
+      <point x="316.4141414141414" y="765.10101010101" type="line"/>
+      <point x="431.9191919191919" y="765.10101010101" type="line"/>
+      <point x="503.050505050505" y="838.4444444444445" type="line"/>
+      <point x="537.1515151515151" y="765.10101010101" type="line"/>
+      <point x="645.4141414141415" y="765.10101010101" type="line"/>
+      <point x="559.1616161616162" y="930.0" type="line"/>
+      <point x="478.85858585858585" y="930.0" type="line"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma-ar" format="2">
+  <advance width="244.47058823529412"/>
+  <unicode hex="060C"/>
+  <outline>
+    <contour>
+      <point x="209.1764705882353" y="246.76470588235293" type="line"/>
+      <point x="121.55882352941177" y="246.76470588235293" type="line"/>
+      <point x="41.88235294117647" y="0.0" type="line"/>
+      <point x="161.2941176470588" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

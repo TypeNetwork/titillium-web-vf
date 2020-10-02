@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh-ar.fina" format="2">
+  <advance width="796.6969696969697"/>
+  <unicode hex="FE90"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="dotbelow-ar.comb" xOffset="330.54545454545456" yOffset="-60.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

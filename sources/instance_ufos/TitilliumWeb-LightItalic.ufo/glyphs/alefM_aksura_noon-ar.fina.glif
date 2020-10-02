@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura_noon-ar.fina" format="2">
+  <advance width="947.939393939394"/>
+  <anchor x="886.2121212121212" y="-60.0" name="bottom_1"/>
+  <anchor x="449.5151515151515" y="-330.0" name="bottom_2"/>
+  <anchor x="434.8787878787879" y="0.0" name="caret_1"/>
+  <anchor x="739.2121212121212" y="573.0" name="top_1"/>
+  <anchor x="217.84848484848484" y="647.6363636363636" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="842.3333333333334" y="0.0" type="line"/>
+      <point x="1005.939393939394" y="0.0" type="line"/>
+      <point x="993.0909090909091" y="54.848484848484844" type="line"/>
+      <point x="860.3636363636364" y="54.848484848484844" type="line"/>
+      <point x="893.1818181818181" y="32.121212121212125" type="line"/>
+      <point x="785.3333333333334" y="500.0" type="line"/>
+      <point x="726.3333333333334" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="551.1818181818181" y="350.8181818181818" type="line"/>
+      <point x="761.3939393939394" y="350.8181818181818" type="line"/>
+      <point x="748.5454545454545" y="405.6666666666667" type="line"/>
+      <point x="538.3333333333334" y="405.6666666666667" type="line"/>
+    </contour>
+    <component base="noon-ar"/>
+    <component base="connection_r" xOffset="897.939393939394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

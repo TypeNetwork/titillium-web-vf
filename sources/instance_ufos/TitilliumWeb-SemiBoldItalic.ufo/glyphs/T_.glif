@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="461.3030303030303"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="173.40404040404042" y="0.0" type="line"/>
+      <point x="285.64646464646466" y="0.0" type="line"/>
+      <point x="420.95959595959596" y="587.0202020202021" type="line"/>
+      <point x="586.6060606060606" y="587.0202020202021" type="line"/>
+      <point x="609.5555555555555" y="685.0505050505051" type="line"/>
+      <point x="167.5151515151515" y="685.0505050505051" type="line"/>
+      <point x="144.56565656565655" y="587.0202020202021" type="line"/>
+      <point x="308.7171717171717" y="587.0202020202021" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="554.7878787878788"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="ring.cap" xOffset="119.93939393939394" yOffset="-46.96969696969697"/>
+    <component base="A"/>
+    <component base="acute" xOffset="110.0909090909091" yOffset="280.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasratan-ar" format="2">
+  <unicode hex="064D"/>
+  <anchor x="94" y="32" name="_bottom"/>
+  <anchor x="94" y="-86" name="bottom"/>
+  <outline>
+    <component base="kasra-ar" yOffset="20"/>
+    <component base="kasra-ar" yOffset="-44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>187</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

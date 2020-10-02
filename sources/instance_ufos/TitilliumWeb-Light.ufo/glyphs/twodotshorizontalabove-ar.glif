@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotshorizontalabove-ar" format="2">
+  <advance width="187.27450980392157"/>
+  <unicode hex="FBB4"/>
+  <outline>
+    <contour>
+      <point x="4.509803921568627" y="604.3529411764706" type="line"/>
+      <point x="64.74509803921569" y="604.3529411764706" type="line"/>
+      <point x="64.74509803921569" y="680.0" type="line"/>
+      <point x="4.509803921568627" y="680.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="122.52941176470588" y="604.3529411764706" type="line"/>
+      <point x="182.76470588235293" y="604.3529411764706" type="line"/>
+      <point x="182.76470588235293" y="680.0" type="line"/>
+      <point x="122.52941176470588" y="680.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

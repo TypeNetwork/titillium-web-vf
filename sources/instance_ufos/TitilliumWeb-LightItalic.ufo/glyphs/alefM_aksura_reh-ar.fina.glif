@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura_reh-ar.fina" format="2">
+  <advance width="559.0909090909091"/>
+  <anchor x="497.3636363636364" y="-60.0" name="bottom_1"/>
+  <anchor x="243.3939393939394" y="-350.0" name="bottom_2"/>
+  <anchor x="337.54545454545456" y="0.0" name="caret_1"/>
+  <anchor x="350.3636363636364" y="573.0" name="top_1"/>
+  <anchor x="82.15151515151516" y="573.0" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="453.4848484848485" y="0.0" type="line"/>
+      <point x="617.0909090909091" y="0.0" type="line"/>
+      <point x="604.2424242424242" y="54.848484848484844" type="line"/>
+      <point x="471.5151515151515" y="54.848484848484844" type="line"/>
+      <point x="504.3333333333333" y="32.121212121212125" type="line"/>
+      <point x="396.4848484848485" y="500.0" type="line"/>
+      <point x="337.4848484848485" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="157.06060606060606" y="368.3939393939394" type="line"/>
+      <point x="369.030303030303" y="368.3939393939394" type="line"/>
+      <point x="356.42424242424244" y="423.24242424242425" type="line"/>
+      <point x="144.45454545454547" y="423.24242424242425" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+    <component base="connection_r" xOffset="509.0909090909091"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="decimalseparator-ar" format="2">
+  <advance width="197"/>
+  <unicode hex="066B"/>
+  <outline>
+    <contour>
+      <point x="159" y="-129" type="line"/>
+      <point x="187" y="-129" type="line"/>
+      <point x="139" y="83" type="line"/>
+      <point x="99" y="83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

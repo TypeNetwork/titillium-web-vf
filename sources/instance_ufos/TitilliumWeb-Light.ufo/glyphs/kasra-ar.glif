@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasra-ar" format="2">
+  <unicode hex="0650"/>
+  <anchor x="108.52941176470588" y="22.45098039215686" name="_bottom"/>
+  <anchor x="108.52941176470588" y="-55.82352941176471" name="bottom"/>
+  <outline>
+    <component base="fatha-ar" yOffset="-569.9019607843137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>302</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura_reh-ar.fina" format="2">
+  <advance width="816"/>
+  <anchor x="603" y="-60" name="bottom_1"/>
+  <anchor x="86" y="-380" name="bottom_2"/>
+  <anchor x="433" y="0" name="caret_1"/>
+  <anchor x="603" y="573" name="top_1"/>
+  <anchor x="178" y="573" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="816" y="0" type="line"/>
+      <point x="816" y="188" type="line"/>
+      <point x="569" y="188" type="line"/>
+      <point x="715" y="66" type="line"/>
+      <point x="715" y="505" type="line"/>
+      <point x="491" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="216" type="line"/>
+      <point x="491" y="216" type="line"/>
+      <point x="491" y="404" type="line"/>
+      <point x="289" y="404" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+    <component base="connection_r" xOffset="766"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

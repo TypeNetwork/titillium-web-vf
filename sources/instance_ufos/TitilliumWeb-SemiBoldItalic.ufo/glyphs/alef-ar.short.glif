@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.short" format="2">
+  <advance width="294.0505050505051"/>
+  <anchor x="213.15151515151516" y="-37.0" name="bottom"/>
+  <anchor x="56.131313131313135" y="642.5858585858585" name="top"/>
+  <outline>
+    <contour>
+      <point x="150.5252525252525" y="0.0" type="line"/>
+      <point x="259.52525252525254" y="0.0" type="line"/>
+      <point x="119.25252525252526" y="605.10101010101" type="line"/>
+      <point x="10.252525252525253" y="605.10101010101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

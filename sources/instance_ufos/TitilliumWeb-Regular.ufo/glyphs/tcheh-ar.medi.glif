@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.medi" format="2">
+  <advance width="601.8921568627451"/>
+  <unicode hex="FB7D"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="threedotsdownbelow-ar.comb" xOffset="128.58823529411765" yOffset="-31.196078431372555"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.fina" format="2">
+  <advance width="1209.8823529411766"/>
+  <unicode hex="FEBA"/>
+  <outline>
+    <contour>
+      <point x="1105.0392156862745" y="0.0" type="line"/>
+      <point x="1209.8823529411766" y="0.0" type="line"/>
+      <point x="1209.8823529411766" y="55.92156862745098" type="line"/>
+      <point x="1105.0392156862745" y="55.92156862745098" type="line"/>
+    </contour>
+    <component base="sad-ar"/>
+    <component base="connection_r" xOffset="1159.8823529411766"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

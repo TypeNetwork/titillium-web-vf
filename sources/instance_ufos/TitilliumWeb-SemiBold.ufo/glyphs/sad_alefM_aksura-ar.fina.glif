@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad_alefMaksura-ar.fina" format="2">
+  <advance width="1672.5882352941176"/>
+  <unicode hex="FD21"/>
+  <outline>
+    <contour>
+      <point x="1558.6176470588234" y="0.0" type="line"/>
+      <point x="1672.5882352941176" y="0.0" type="line"/>
+      <point x="1672.5882352941176" y="97.23529411764706" type="line"/>
+      <point x="1558.6176470588234" y="97.23529411764706" type="line"/>
+    </contour>
+    <component base="sad_alefMaksura-ar"/>
+    <component base="connection_r" xOffset="1622.5882352941176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

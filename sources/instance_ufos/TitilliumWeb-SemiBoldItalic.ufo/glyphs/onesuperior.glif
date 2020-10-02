@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="280.0"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="231.8080808080808" y="478.0" type="line"/>
+      <point x="320.13131313131316" y="478.0" type="line"/>
+      <point x="397.13131313131316" y="790.0" type="line"/>
+      <point x="316.2828282828283" y="790.0" type="line"/>
+      <point x="194.55555555555554" y="717.020202020202" type="line"/>
+      <point x="219.5050505050505" y="654.6363636363636" type="line"/>
+      <point x="284.85858585858585" y="692.6969696969697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

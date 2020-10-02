@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotabove-ar" format="2">
+  <advance width="147.7941176470588"/>
+  <unicode hex="FBB2"/>
+  <outline>
+    <contour>
+      <point x="20.0" y="585.4411764705883" type="line"/>
+      <point x="127.79411764705883" y="585.4411764705883" type="line"/>
+      <point x="127.79411764705883" y="700.0" type="line"/>
+      <point x="20.0" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

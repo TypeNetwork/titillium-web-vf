@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="268.52941176470586"/>
+  <unicode hex="012C"/>
+  <outline>
+    <component base="I"/>
+    <component base="breve.cap" xOffset="0.02941176470588225"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

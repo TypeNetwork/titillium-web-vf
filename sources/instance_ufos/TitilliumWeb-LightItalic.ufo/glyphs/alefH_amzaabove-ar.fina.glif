@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzaabove-ar.fina" format="2">
+  <advance width="268.45454545454544"/>
+  <unicode hex="FE84"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="-39.06060606060606" yOffset="254.78787878787878"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

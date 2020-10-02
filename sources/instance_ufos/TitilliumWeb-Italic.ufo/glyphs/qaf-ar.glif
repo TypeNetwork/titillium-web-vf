@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar" format="2">
+  <advance width="862.959595959596"/>
+  <unicode hex="0642"/>
+  <outline>
+    <component base="qafDotless-ar"/>
+    <component base="twodotshorizontalabove-ar.comb" xOffset="460.2828282828283" yOffset="-19.272727272727273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

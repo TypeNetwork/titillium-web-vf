@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EB0" format="2">
+  <advance width="553.979797979798"/>
+  <unicode hex="1EB0"/>
+  <outline>
+    <component base="grave" xOffset="125.06060606060606" yOffset="342.52525252525254"/>
+    <component base="A"/>
+    <component base="breve.cap" xOffset="59.17171717171717" yOffset="-40.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

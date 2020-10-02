@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.fina.short" format="2">
+  <advance width="290.47058823529414"/>
+  <outline>
+    <contour>
+      <point x="170.77450980392157" y="0.0" type="line"/>
+      <point x="290.47058823529414" y="0.0" type="line"/>
+      <point x="290.47058823529414" y="68.56862745098039" type="line"/>
+      <point x="170.77450980392157" y="68.56862745098039" type="line"/>
+    </contour>
+    <component base="connection_r" xOffset="240.47058823529412"/>
+    <component base="alef-ar.short"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

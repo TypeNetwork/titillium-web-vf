@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keheh-ar.fina" format="2">
+  <advance width="850.2323232323232"/>
+  <unicode hex="FB8F"/>
+  <outline>
+    <contour>
+      <point x="794.030303030303" y="0.0" type="line"/>
+      <point x="908.2323232323232" y="0.0" type="line"/>
+      <point x="885.2828282828283" y="98.28282828282829" type="line"/>
+      <point x="771.0808080808081" y="98.28282828282829" type="line"/>
+    </contour>
+    <component base="keheh-ar"/>
+    <component base="connection_r" xOffset="800.2323232323232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

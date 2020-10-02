@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.fina" format="2">
+  <advance width="546"/>
+  <unicode hex="FEAA"/>
+  <outline>
+    <contour>
+      <point x="427" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="120" type="line"/>
+      <point x="427" y="120" type="line"/>
+    </contour>
+    <component base="dal-ar"/>
+    <component base="connection_r" xOffset="496"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

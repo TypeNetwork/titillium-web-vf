@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="496"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <contour>
+      <point x="126" y="-107" type="line"/>
+      <point x="336" y="235" type="line"/>
+      <point x="554" y="575" type="line"/>
+      <point x="483" y="606" type="line"/>
+      <point x="276" y="266" type="line"/>
+      <point x="56" y="-76" type="line"/>
+    </contour>
+    <component base="o"/>
+    <component base="acute" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunna-ar.fina" format="2">
+  <advance width="757"/>
+  <unicode hex="FB9F"/>
+  <outline>
+    <contour>
+      <point x="695" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="787" y="120" type="line"/>
+      <point x="667" y="120" type="line"/>
+    </contour>
+    <component base="connection_r" xOffset="707"/>
+    <component base="noonghunna-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

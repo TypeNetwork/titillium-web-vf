@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.cap" format="2">
+  <advance width="253.97058823529412"/>
+  <outline>
+    <contour>
+      <point x="242.14705882352942" y="938.9117647058823" type="line"/>
+      <point x="6.029411764705882" y="835.5588235294117" type="line"/>
+      <point x="34.26470588235294" y="760.0294117647059" type="line"/>
+      <point x="276.52941176470586" y="842.4705882352941" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="492.969696969697"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="98.72727272727272" y="-111.54545454545455" type="line"/>
+      <point x="317.06060606060606" y="240.3030303030303" type="line"/>
+      <point x="537.3333333333334" y="587.8787878787879" type="line"/>
+      <point x="499.6666666666667" y="604.4848484848485" type="line"/>
+      <point x="285.09090909090907" y="257.6666666666667" type="line"/>
+      <point x="61.303030303030305" y="-95.6969696969697" type="line"/>
+    </contour>
+    <component base="o" xOffset="1.0" yOffset="2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

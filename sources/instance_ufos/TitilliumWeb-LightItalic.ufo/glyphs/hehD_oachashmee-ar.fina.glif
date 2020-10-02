@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehDoachashmee-ar.fina" format="2">
+  <advance width="802.060606060606"/>
+  <unicode hex="FBAB"/>
+  <outline>
+    <contour>
+      <point x="755.4545454545455" y="0.0" type="line"/>
+      <point x="860.060606060606" y="0.0" type="line"/>
+      <point x="847.2121212121212" y="54.848484848484844" type="line"/>
+      <point x="742.6060606060606" y="54.848484848484844" type="line"/>
+    </contour>
+    <component base="hehDoachashmee-ar"/>
+    <component base="connection_r" xOffset="752.060606060606"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

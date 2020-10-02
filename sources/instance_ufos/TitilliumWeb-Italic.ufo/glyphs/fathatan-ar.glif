@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fathatan-ar" format="2">
+  <unicode hex="064B"/>
+  <outline>
+    <component base="fatha-ar"/>
+    <component base="fatha-ar" xOffset="-20.252525252525253" yOffset="86.62626262626263"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>187</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

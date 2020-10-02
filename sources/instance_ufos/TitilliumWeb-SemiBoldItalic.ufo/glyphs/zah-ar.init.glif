@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar.init" format="2">
+  <advance width="812.7878787878788"/>
+  <unicode hex="FEC7"/>
+  <outline>
+    <component base="tah-ar.init"/>
+    <component base="dotabove-ar.comb" xOffset="368.25252525252523" yOffset="-11.454545454545453"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

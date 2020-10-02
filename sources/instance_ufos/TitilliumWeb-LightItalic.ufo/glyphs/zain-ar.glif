@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zain-ar" format="2">
+  <advance width="261.42424242424244"/>
+  <unicode hex="0632"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="dotabove-ar.comb" xOffset="118.66666666666666" yOffset="-52.36363636363636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

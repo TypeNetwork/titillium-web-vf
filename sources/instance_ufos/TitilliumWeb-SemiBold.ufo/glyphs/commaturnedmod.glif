@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="245.52941176470588"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="193.64705882352942" y="766.7941176470588" type="line"/>
+      <point x="106.02941176470588" y="766.7941176470588" type="line"/>
+      <point x="26.352941176470587" y="520.0294117647059" type="line"/>
+      <point x="145.76470588235293" y="520.0294117647059" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

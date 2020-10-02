@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad_reh-ar" format="2">
+  <advance width="1062.9019607843138"/>
+  <unicode hex="FD0F"/>
+  <anchor x="699.5686274509803" y="-100.0" name="bottom_1"/>
+  <anchor x="104.15686274509804" y="-350.0" name="bottom_2"/>
+  <anchor x="280.70588235294116" y="0.0" name="caret_1"/>
+  <anchor x="699.5686274509803" y="573.0" name="top_1"/>
+  <anchor x="156.90196078431373" y="573.0" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="456.5686274509804" y="0.0" type="line"/>
+      <point x="985.4509803921569" y="0.0" type="line"/>
+      <point x="985.4509803921569" y="241.0" type="line" smooth="yes"/>
+      <point x="985.4509803921569" y="353.0"/>
+      <point x="942.4509803921569" y="500.0"/>
+      <point x="752.4509803921569" y="500.0" type="curve" smooth="yes"/>
+      <point x="586.4509803921569" y="500.0"/>
+      <point x="506.45098039215685" y="388.0"/>
+      <point x="423.45098039215685" y="285.0" type="curve"/>
+      <point x="449.4313725490196" y="234.4313725490196" type="line"/>
+      <point x="522.4313725490197" y="325.88235294117646"/>
+      <point x="607.1764705882352" y="444.078431372549"/>
+      <point x="751.7058823529412" y="444.078431372549" type="curve" smooth="yes"/>
+      <point x="867.3921568627451" y="444.078431372549"/>
+      <point x="925.2156862745098" y="374.03921568627453"/>
+      <point x="925.2156862745098" y="241.0" type="curve" smooth="yes"/>
+      <point x="925.2156862745098" y="7.450980392156863" type="line"/>
+      <point x="978.0" y="55.92156862745098" type="line"/>
+      <point x="456.5686274509804" y="55.92156862745098" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.64705882352942" y="349.47058823529414" type="line"/>
+      <point x="396.3333333333333" y="349.47058823529414" type="line"/>
+      <point x="396.3333333333333" y="405.3921568627451" type="line"/>
+      <point x="186.64705882352942" y="405.3921568627451" type="line"/>
+    </contour>
+    <contour>
+      <point x="396.3333333333333" y="0.0" type="line"/>
+      <point x="456.5686274509804" y="0.0" type="line"/>
+      <point x="456.5686274509804" y="500.0" type="line"/>
+      <point x="396.3333333333333" y="500.0" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

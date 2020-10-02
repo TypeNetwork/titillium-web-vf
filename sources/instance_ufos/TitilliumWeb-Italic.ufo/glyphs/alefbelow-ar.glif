@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefbelow-ar" format="2">
+  <unicode hex="0656"/>
+  <anchor x="-32.111111111111114" y="599.3131313131313" name="_bottom"/>
+  <anchor x="11.1010101010101" y="411.6363636363636" name="bottom"/>
+  <outline>
+    <component base="alefabove-ar" yOffset="28.080808080808083"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>74</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

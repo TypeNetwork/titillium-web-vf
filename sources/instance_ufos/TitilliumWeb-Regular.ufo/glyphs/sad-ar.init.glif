@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.init" format="2">
+  <advance width="818.8921568627451"/>
+  <unicode hex="FEBB"/>
+  <anchor x="453.05882352941177" y="-100.0" name="bottom"/>
+  <anchor x="453.05882352941177" y="573.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="742.9117647058823" y="0.0" type="line"/>
+      <point x="742.9117647058823" y="241.0" type="line" smooth="yes"/>
+      <point x="742.9117647058823" y="353.0"/>
+      <point x="699.9117647058823" y="500.0"/>
+      <point x="509.9117647058824" y="500.0" type="curve" smooth="yes"/>
+      <point x="343.9117647058824" y="500.0"/>
+      <point x="263.9117647058824" y="388.0"/>
+      <point x="180.91176470588235" y="285.0" type="curve"/>
+      <point x="206.30392156862746" y="217.37254901960785" type="line"/>
+      <point x="271.80392156862746" y="299.8529411764706"/>
+      <point x="363.9019607843137" y="431.4313725490196"/>
+      <point x="509.3137254901961" y="431.4313725490196" type="curve" smooth="yes"/>
+      <point x="615.5882352941177" y="431.4313725490196"/>
+      <point x="668.1176470588235" y="367.7156862745098"/>
+      <point x="668.1176470588235" y="241.0" type="curve" smooth="yes"/>
+      <point x="668.1176470588235" y="5.980392156862745" type="line"/>
+      <point x="736.9313725490196" y="68.56862745098039" type="line"/>
+      <point x="0.0" y="68.56862745098039" type="line"/>
+    </contour>
+    <contour>
+      <point x="142.76470588235293" y="68.56862745098039" type="line"/>
+      <point x="217.55882352941177" y="68.56862745098039" type="line"/>
+      <point x="217.55882352941177" y="500.0" type="line"/>
+      <point x="142.76470588235293" y="500.0" type="line"/>
+    </contour>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

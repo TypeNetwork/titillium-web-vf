@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.cap" format="2">
+  <advance width="224.6060606060606"/>
+  <outline>
+    <contour>
+      <point x="262.5151515151515" y="792.4545454545455" type="line"/>
+      <point x="326.6666666666667" y="792.4545454545455" type="line"/>
+      <point x="346.95959595959596" y="882.7777777777778" type="line"/>
+      <point x="282.5959595959596" y="882.7777777777778" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

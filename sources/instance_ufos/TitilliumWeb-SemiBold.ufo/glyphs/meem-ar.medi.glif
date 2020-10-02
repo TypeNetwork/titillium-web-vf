@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem-ar.medi" format="2">
+  <advance width="702.1764705882352"/>
+  <unicode hex="FEE4"/>
+  <outline>
+    <contour>
+      <point x="588.2058823529412" y="0.0" type="line"/>
+      <point x="702.1764705882352" y="0.0" type="line"/>
+      <point x="702.1764705882352" y="97.23529411764706" type="line"/>
+      <point x="588.2058823529412" y="97.23529411764706" type="line"/>
+    </contour>
+    <component base="meem-ar.init"/>
+    <component base="connection_r" xOffset="652.1764705882352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

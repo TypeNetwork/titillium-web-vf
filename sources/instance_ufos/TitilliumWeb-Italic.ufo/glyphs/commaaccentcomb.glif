@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="-44.81818181818181" y="-282.77777777777777" type="line"/>
+      <point x="16.333333333333336" y="-282.77777777777777" type="line"/>
+      <point x="112.01010101010101" y="-72.5959595959596" type="line"/>
+      <point x="42.05050505050505" y="-72.5959595959596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>161</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

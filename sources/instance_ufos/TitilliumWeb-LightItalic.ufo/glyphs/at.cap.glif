@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="at.cap" format="2">
+  <advance width="911.3030303030303"/>
+  <outline>
+    <component base="at" xOffset="12.969696969696969" yOffset="95.15151515151516"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

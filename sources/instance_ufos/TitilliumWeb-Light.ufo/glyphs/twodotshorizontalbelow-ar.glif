@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotshorizontalbelow-ar" format="2">
+  <advance width="188.76470588235293"/>
+  <unicode hex="FBB5"/>
+  <outline>
+    <component base="twodotshorizontalabove-ar" xOffset="0.7450980392156863" yOffset="-676.1764705882352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

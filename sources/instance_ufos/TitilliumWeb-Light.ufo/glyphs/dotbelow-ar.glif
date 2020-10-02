@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow-ar" format="2">
+  <advance width="100.23529411764706"/>
+  <unicode hex="FBB3"/>
+  <outline>
+    <component base="dotabove-ar" yOffset="-696.1764705882352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.medi" format="2">
+  <advance width="562.8787878787879"/>
+  <unicode hex="FBA9"/>
+  <anchor x="433.93939393939394" y="-407.0" name="bottom"/>
+  <anchor x="274.93939393939394" y="282.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="582.030303030303" y="-307.57575757575756" type="curve"/>
+      <point x="504.8484848484849" y="26.90909090909091" type="line"/>
+      <point x="483.8484848484849" y="0.0" type="line"/>
+      <point x="620.8787878787879" y="0.0" type="line"/>
+      <point x="608.030303030303" y="54.848484848484844" type="line"/>
+      <point x="438.42424242424244" y="54.848484848484844" type="line"/>
+      <point x="521.7878787878788" y="-309.27272727272725" type="line"/>
+      <point x="551.6060606060606" y="-254.9090909090909" type="line"/>
+      <point x="511.1212121212121" y="-259.6363636363636"/>
+      <point x="482.4848484848485" y="-261.1515151515151"/>
+      <point x="460.90909090909093" y="-261.1515151515151" type="curve" smooth="yes"/>
+      <point x="334.6060606060606" y="-261.1515151515151"/>
+      <point x="281.3636363636364" y="-204.6060606060606"/>
+      <point x="216.72727272727272" y="57.81818181818182" type="curve"/>
+      <point x="45.15151515151515" y="54.848484848484844" type="line"/>
+      <point x="58.0" y="0.0" type="line"/>
+      <point x="197.96969696969697" y="0.0" type="line"/>
+      <point x="164.63636363636363" y="24.727272727272727" type="line"/>
+      <point x="226.15151515151516" y="-237.3939393939394"/>
+      <point x="301.57575757575756" y="-316.0"/>
+      <point x="463.6363636363636" y="-316.0" type="curve" smooth="yes"/>
+      <point x="494.54545454545456" y="-316.0"/>
+      <point x="526.6060606060606" y="-313.5151515151515"/>
+    </contour>
+    <component base="connection_r" xOffset="512.8787878787879"/>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

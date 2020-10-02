@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura_reh-ar.fina.alt" format="2">
+  <advance width="650.7647058823529"/>
+  <anchor x="483.02941176470586" y="-60.0" name="bottom_1"/>
+  <anchor x="95.02941176470588" y="-350.0" name="bottom_2"/>
+  <anchor x="325.38235294117646" y="0.0" name="caret_1"/>
+  <anchor x="483.02941176470586" y="573.0" name="top_1"/>
+  <anchor x="147.2941176470588" y="573.0" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="429.0" y="0.0" type="line"/>
+      <point x="650.7647058823529" y="0.0" type="line"/>
+      <point x="650.7647058823529" y="97.23529411764706" type="line"/>
+      <point x="485.7647058823529" y="97.23529411764706" type="line"/>
+      <point x="536.7941176470588" y="56.76470588235294" type="line"/>
+      <point x="536.7941176470588" y="500.0" type="line"/>
+      <point x="429.0" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.05882352941177" y="297.5882352941176" type="line"/>
+      <point x="429.0" y="297.5882352941176" type="line"/>
+      <point x="429.0" y="394.8235294117647" type="line"/>
+      <point x="201.05882352941177" y="394.8235294117647" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+    <component base="connection_r" xOffset="600.7647058823529"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

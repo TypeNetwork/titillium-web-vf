@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar" format="2">
+  <advance width="782.1111111111111"/>
+  <unicode hex="0643"/>
+  <outline>
+    <component base="kafDotless-ar"/>
+    <component base="hamzaabove-ar" xOffset="301.7070707070707" yOffset="-198.03030303030303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

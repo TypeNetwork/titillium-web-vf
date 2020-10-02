@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.fina" format="2">
+  <advance width="824.6470588235294"/>
+  <unicode hex="FEC2"/>
+  <outline>
+    <contour>
+      <point x="710.6764705882352" y="0.0" type="line"/>
+      <point x="824.6470588235294" y="0.0" type="line"/>
+      <point x="824.6470588235294" y="97.23529411764706" type="line"/>
+      <point x="710.6764705882352" y="97.23529411764706" type="line"/>
+    </contour>
+    <component base="tah-ar"/>
+    <component base="connection_r" xOffset="774.6470588235294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzabelow-ar" format="2">
+  <unicode hex="0655"/>
+  <anchor x="181.8989898989899" y="54.56565656565657" name="_bottom"/>
+  <anchor x="246.07070707070707" y="-224.59595959595958" name="bottom"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="147.010101010101" yOffset="-635.0505050505051"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>187</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

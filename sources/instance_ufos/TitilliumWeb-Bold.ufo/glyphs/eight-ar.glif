@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-ar" format="2">
+  <advance width="681"/>
+  <unicode hex="0668"/>
+  <outline>
+    <contour>
+      <point x="246" y="660" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="353" y="608" type="line"/>
+      <point x="246" y="540" type="line"/>
+      <point x="388" y="540" type="line"/>
+      <point x="321" y="607" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="428" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

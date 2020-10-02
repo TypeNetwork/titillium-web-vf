@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.medi" format="2">
+  <advance width="644.8627450980392"/>
+  <unicode hex="FEDC"/>
+  <outline>
+    <contour>
+      <point x="540.0196078431372" y="0.0" type="line"/>
+      <point x="644.8627450980392" y="0.0" type="line"/>
+      <point x="644.8627450980392" y="55.92156862745098" type="line"/>
+      <point x="540.0196078431372" y="55.92156862745098" type="line"/>
+    </contour>
+    <component base="kaf-ar.init"/>
+    <component base="connection_r" xOffset="594.8627450980392"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_reh-ar" format="2">
+  <advance width="1020"/>
+  <unicode hex="FD0E"/>
+  <anchor x="660" y="-100" name="bottom_1"/>
+  <anchor x="109" y="-350" name="bottom_2"/>
+  <anchor x="257" y="0" name="caret_1"/>
+  <anchor x="660" y="573" name="top_1"/>
+  <anchor x="162" y="573" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="743" y="0" type="curve" smooth="yes"/>
+      <point x="940" y="0" type="line"/>
+      <point x="940" y="278" type="line" smooth="yes"/>
+      <point x="940" y="331"/>
+      <point x="923" y="432"/>
+      <point x="908" y="500" type="curve"/>
+      <point x="874" y="493" type="line"/>
+      <point x="892" y="411"/>
+      <point x="905" y="320"/>
+      <point x="905" y="278" type="curve" smooth="yes"/>
+      <point x="905" y="0" type="line"/>
+      <point x="940" y="34" type="line"/>
+      <point x="743" y="34" type="line" smooth="yes"/>
+      <point x="708" y="34"/>
+      <point x="677" y="47"/>
+      <point x="644" y="76" type="curve"/>
+      <point x="621" y="51" type="line"/>
+      <point x="661" y="15"/>
+      <point x="702" y="0"/>
+    </contour>
+    <contour>
+      <point x="179" y="377" type="line"/>
+      <point x="379" y="377" type="line"/>
+      <point x="379" y="411" type="line"/>
+      <point x="179" y="411" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="414" y="500" type="line"/>
+      <point x="379" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="0" type="line"/>
+      <point x="550" y="0" type="line" smooth="yes"/>
+      <point x="641" y="0"/>
+      <point x="677" y="34"/>
+      <point x="677" y="178" type="curve" smooth="yes"/>
+      <point x="677" y="450" type="line"/>
+      <point x="642" y="450" type="line"/>
+      <point x="642" y="178" type="line" smooth="yes"/>
+      <point x="642" y="58"/>
+      <point x="623" y="34"/>
+      <point x="550" y="34" type="curve" smooth="yes"/>
+      <point x="414" y="34" type="line"/>
+    </contour>
+    <component base="reh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

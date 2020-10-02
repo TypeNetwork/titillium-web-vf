@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron" format="2">
+  <advance width="494.7676767676768"/>
+  <unicode hex="017D"/>
+  <outline>
+    <component base="caron.cap" xOffset="30.444444444444443" yOffset="-3.5757575757575757"/>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

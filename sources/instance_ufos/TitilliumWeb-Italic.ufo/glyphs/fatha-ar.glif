@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fatha-ar" format="2">
+  <unicode hex="064E"/>
+  <anchor x="48.858585858585855" y="542.89898989899" name="_top"/>
+  <anchor x="28.606060606060606" y="629.5252525252525" name="top"/>
+  <outline>
+    <contour>
+      <point x="-47.57575757575758" y="542.89898989899" type="line"/>
+      <point x="145.88888888888889" y="542.89898989899" type="line"/>
+      <point x="133.44444444444446" y="595.4848484848485" type="line"/>
+      <point x="-60.02020202020202" y="595.4848484848485" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>187</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

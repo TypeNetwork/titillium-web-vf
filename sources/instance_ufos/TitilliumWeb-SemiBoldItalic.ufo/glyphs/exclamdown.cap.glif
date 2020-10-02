@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.cap" format="2">
+  <advance width="173.85858585858585"/>
+  <outline>
+    <contour>
+      <point x="240.4747474747475" y="438.9191919191919" type="line"/>
+      <point x="139.22222222222223" y="438.9191919191919" type="line"/>
+      <point x="25.707070707070706" y="-14.94949494949495" type="line"/>
+      <point x="140.92929292929293" y="-14.94949494949495" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.1818181818182" y="685.0505050505051" type="line"/>
+      <point x="188.43434343434342" y="685.0505050505051" type="line"/>
+      <point x="157.47474747474746" y="549.7272727272727" type="line"/>
+      <point x="268.22222222222223" y="549.7272727272727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

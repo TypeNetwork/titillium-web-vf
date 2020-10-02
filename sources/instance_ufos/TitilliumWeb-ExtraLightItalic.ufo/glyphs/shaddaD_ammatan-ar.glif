@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaDammatan-ar" format="2">
+  <advance width="230"/>
+  <anchor x="71" y="442" name="_top"/>
+  <anchor x="4" y="730" name="top"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="dammatan-ar" xOffset="-8" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

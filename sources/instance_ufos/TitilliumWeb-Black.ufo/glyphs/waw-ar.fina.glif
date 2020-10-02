@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="waw-ar.fina" format="2">
+  <advance width="686"/>
+  <unicode hex="FEEE"/>
+  <outline>
+    <contour>
+      <point x="585" y="0" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="686" y="188" type="line"/>
+      <point x="585" y="188" type="line"/>
+    </contour>
+    <component base="waw-ar"/>
+    <component base="connection_r" xOffset="636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rreh-ar.fina" format="2">
+  <advance width="315.62626262626264"/>
+  <unicode hex="FB8D"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="tahabove-ar" xOffset="-67.8888888888889" yOffset="174.60606060606062"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
