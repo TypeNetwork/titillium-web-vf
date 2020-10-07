@@ -9,10 +9,10 @@
       <point x="482" y="398" type="line"/>
     </contour>
     <contour>
+      <point x="-5" y="-30" type="line"/>
       <point x="212" y="-74" type="line"/>
       <point x="259" y="8" type="line"/>
       <point x="63" y="89" type="line"/>
-      <point x="-5" y="-30" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

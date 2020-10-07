@@ -108,8 +108,8 @@
       <string>Ograve</string>
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
-      <string>Oslash</string>
-      <string>Oslashacute</string>
+      <string>Oslash.rvrn</string>
+      <string>Oslashacute.rvrn</string>
       <string>Otilde</string>
       <string>Q</string>
     </array>
@@ -316,8 +316,8 @@
       <string>ograve</string>
       <string>ohungarumlaut</string>
       <string>omacron</string>
-      <string>oslash</string>
-      <string>oslashacute</string>
+      <string>oslash.rvrn</string>
+      <string>oslashacute.rvrn</string>
       <string>otilde</string>
       <string>uni1ED7</string>
     </array>
@@ -501,8 +501,8 @@
       <string>Ograve</string>
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
-      <string>Oslash</string>
-      <string>Oslashacute</string>
+      <string>Oslash.rvrn</string>
+      <string>Oslashacute.rvrn</string>
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
@@ -698,8 +698,8 @@
       <string>ograve</string>
       <string>ohungarumlaut</string>
       <string>omacron</string>
-      <string>oslash</string>
-      <string>oslashacute</string>
+      <string>oslash.rvrn</string>
+      <string>oslashacute.rvrn</string>
       <string>otilde</string>
       <string>oe</string>
       <string>uni1EC5</string>

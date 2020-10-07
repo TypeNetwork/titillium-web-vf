@@ -536,9 +536,9 @@
       <integer>8</integer>
       <key>o</key>
       <integer>-20</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>-11</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>-11</integer>
       <key>q</key>
       <integer>-17</integer>
@@ -1334,9 +1334,9 @@
       <integer>13</integer>
       <key>o</key>
       <integer>-31</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>-19</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>-19</integer>
       <key>public.kern2.C</key>
       <integer>-16</integer>
@@ -1794,9 +1794,9 @@
       <integer>-15</integer>
       <key>one.pnum</key>
       <integer>-29</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>3</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>3</integer>
       <key>public.kern2.T</key>
       <integer>-56</integer>
@@ -1935,9 +1935,9 @@
       <integer>-19</integer>
       <key>one.pnum</key>
       <integer>-20</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>2</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>2</integer>
       <key>parenleft</key>
       <integer>0</integer>
@@ -2110,9 +2110,9 @@
       <integer>-17</integer>
       <key>one.pnum</key>
       <integer>-31</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>1</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>1</integer>
       <key>parenleft</key>
       <integer>0</integer>
@@ -2505,9 +2505,9 @@
       <integer>-10</integer>
       <key>o</key>
       <integer>-7</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>1</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>1</integer>
       <key>q</key>
       <integer>-7</integer>
@@ -3065,12 +3065,12 @@
       <key>bracketright</key>
       <integer>0</integer>
     </dict>
-    <key>oslash</key>
+    <key>oslash.rvrn</key>
     <dict>
       <key>question</key>
       <integer>-7</integer>
     </dict>
-    <key>oslashacute</key>
+    <key>oslashacute.rvrn</key>
     <dict>
       <key>question</key>
       <integer>-7</integer>
@@ -5072,9 +5072,9 @@
       <integer>27</integer>
       <key>o</key>
       <integer>-18</integer>
-      <key>oslash</key>
+      <key>oslash.rvrn</key>
       <integer>-4</integer>
-      <key>oslashacute</key>
+      <key>oslashacute.rvrn</key>
       <integer>-4</integer>
       <key>public.kern2.A</key>
       <integer>-16</integer>

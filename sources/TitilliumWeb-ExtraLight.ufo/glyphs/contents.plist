@@ -178,6 +178,8 @@
     <string>O_slash.rvrn.glif</string>
     <key>Oslashacute</key>
     <string>O_slashacute.glif</string>
+    <key>Oslashacute.rvrn</key>
+    <string>O_slashacute.rvrn.glif</string>
     <key>Otilde</key>
     <string>O_tilde.glif</string>
     <key>P</key>
@@ -1076,12 +1078,16 @@
     <string>oslash.rvrn.glif</string>
     <key>oslashacute</key>
     <string>oslashacute.glif</string>
+    <key>oslashacute.rvrn</key>
+    <string>oslashacute.rvrn.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
+    <key>paragraph.rvrn</key>
+    <string>paragraph.rvrn.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenleft-ar</key>

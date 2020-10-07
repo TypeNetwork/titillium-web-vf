@@ -4,11 +4,15 @@
   <dict>
     <key>Oslash</key>
     <string>O_slash.glif</string>
+    <key>Oslashacute.rvrn</key>
+    <string>O_slashacute.rvrn.glif</string>
     <key>hehDoachashmee-ar</key>
     <string>hehD_oachashmee-ar.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
     <key>oslash.rvrn</key>
     <string>oslash.rvrn.glif</string>
+    <key>oslashacute.rvrn</key>
+    <string>oslashacute.rvrn.glif</string>
   </dict>
 </plist>

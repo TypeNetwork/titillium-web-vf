@@ -3,8 +3,20 @@
   <advance width="670"/>
   <unicode hex="01FE"/>
   <outline>
+    <contour>
+      <point x="83" y="-10" type="line"/>
+      <point x="300" y="-54" type="line"/>
+      <point x="359" y="92" type="line"/>
+      <point x="131" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="680" type="line"/>
+      <point x="381" y="724" type="line"/>
+      <point x="324" y="585" type="line"/>
+      <point x="560" y="586" type="line"/>
+    </contour>
+    <component base="O"/>
     <component base="acute.cap" xOffset="113" yOffset="15"/>
-    <component base="Oslash"/>
   </outline>
   <lib>
     <dict>

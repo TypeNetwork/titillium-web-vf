@@ -2905,6 +2905,9 @@ Wt1
       <string>cent.rvrn</string>
       <string>Oslash.rvrn</string>
       <string>oslash.rvrn</string>
+      <string>paragraph.rvrn</string>
+      <string>Oslashacute.rvrn</string>
+      <string>oslashacute.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
