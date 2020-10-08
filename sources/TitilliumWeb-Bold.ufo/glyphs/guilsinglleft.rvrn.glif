@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.BRACKET.139" format="2">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="6" y="240" type="line"/>
+      <point x="202" y="-4" type="line"/>
+      <point x="291" y="65" type="line"/>
+      <point x="147" y="244" type="line"/>
+      <point x="291" y="423" type="line"/>
+      <point x="202" y="492" type="line"/>
+      <point x="6" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Bold [139]</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

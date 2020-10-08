@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="threedotsupbelow-ar.comb" format="2">
-  <advance width="495"/>
-  <anchor x="247" y="10" name="_bottom"/>
-  <anchor x="247" y="-402" name="bottom"/>
-  <outline>
-    <component base="threedotsupbelow-ar"/>
-  </outline>
-</glyph>
