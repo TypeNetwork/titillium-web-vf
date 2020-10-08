@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dotabove-ar.comb" format="2">
-  <advance width="149.0"/>
-  <anchor x="-2.1717171717171695" y="584.4545454545455" name="_top"/>
-  <anchor x="-43.37373737373737" y="760.0" name="top"/>
-  <outline>
-    <component base="dotabove-ar"/>
-  </outline>
-</glyph>
