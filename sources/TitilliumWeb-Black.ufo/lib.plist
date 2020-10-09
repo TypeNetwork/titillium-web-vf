@@ -2418,7 +2418,6 @@ Wt1
       <string>caron</string>
       <string>cedilla</string>
       <string>ogonek</string>
-      <string>commaaccent</string>
       <string>uni1EB0</string>
       <string>uni1EF8</string>
       <string>dotlessi</string>
@@ -2902,6 +2901,17 @@ Wt1
       <string>twodotsverticalbelow-ar.comb</string>
       <string>dotcenter-ar.alt</string>
       <string>threedotsdowncenter-ar.alt</string>
+      <string>dollar.rvrn</string>
+      <string>cent.rvrn</string>
+      <string>Oslash.rvrn</string>
+      <string>oslash.rvrn</string>
+      <string>paragraph.rvrn</string>
+      <string>Oslashacute.rvrn</string>
+      <string>oslashacute.rvrn</string>
+      <string>guillemotleft.rvrn</string>
+      <string>guilsinglleft.rvrn</string>
+      <string>guillemotright.rvrn</string>
+      <string>guilsinglright.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

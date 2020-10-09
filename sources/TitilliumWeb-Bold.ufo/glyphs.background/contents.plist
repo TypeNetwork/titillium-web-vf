@@ -2,7 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>Oslash</key>
+    <string>O_slash.glif</string>
+    <key>Oslash.rvrn</key>
+    <string>O_slash.rvrn.glif</string>
+    <key>Oslashacute.rvrn</key>
+    <string>O_slashacute.rvrn.glif</string>
+    <key>cent.rvrn</key>
+    <string>cent.rvrn.glif</string>
+    <key>dollar.rvrn</key>
+    <string>dollar.rvrn.glif</string>
     <key>hehDoachashmee-ar</key>
     <string>hehD_oachashmee-ar.glif</string>
+    <key>oslash</key>
+    <string>oslash.glif</string>
+    <key>oslash.rvrn</key>
+    <string>oslash.rvrn.glif</string>
+    <key>oslashacute.rvrn</key>
+    <string>oslashacute.rvrn.glif</string>
   </dict>
 </plist>

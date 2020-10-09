@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="twodotsverticalabove-ar.comb" format="2">
-  <advance width="174"/>
-  <anchor x="87" y="524" name="_top"/>
-  <anchor x="87" y="936" name="top"/>
-  <outline>
-    <component base="twodotsverticalabove-ar"/>
-  </outline>
-</glyph>

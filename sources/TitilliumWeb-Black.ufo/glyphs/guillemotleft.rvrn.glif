@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotleft.BRACKET.139" format="2">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="284" y="240" type="line"/>
+      <point x="443" y="10" type="line"/>
+      <point x="605" y="84" type="line"/>
+      <point x="491" y="253" type="line"/>
+      <point x="605" y="422" type="line"/>
+      <point x="445" y="496" type="line"/>
+      <point x="284" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="240" type="line"/>
+      <point x="173" y="10" type="line"/>
+      <point x="335" y="84" type="line"/>
+      <point x="221" y="253" type="line"/>
+      <point x="335" y="422" type="line"/>
+      <point x="175" y="496" type="line"/>
+      <point x="14" y="261" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Black [139]</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

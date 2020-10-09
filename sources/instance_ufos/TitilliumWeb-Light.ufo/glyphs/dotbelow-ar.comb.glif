@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dotbelow-ar.comb" format="2">
-  <advance width="100.23529411764706"/>
-  <anchor x="50.490196078431374" y="3.8235294117647065" name="_bottom"/>
-  <anchor x="50.490196078431374" y="-150.54901960784315" name="bottom"/>
-  <outline>
-    <component base="dotbelow-ar"/>
-  </outline>
-</glyph>

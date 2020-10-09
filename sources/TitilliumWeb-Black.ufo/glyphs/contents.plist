@@ -174,8 +174,12 @@
     <string>O_mega.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
+    <key>Oslash.rvrn</key>
+    <string>O_slash.rvrn.glif</string>
     <key>Oslashacute</key>
     <string>O_slashacute.glif</string>
+    <key>Oslashacute.rvrn</key>
+    <string>O_slashacute.rvrn.glif</string>
     <key>Otilde</key>
     <string>O_tilde.glif</string>
     <key>P</key>
@@ -458,6 +462,8 @@
     <string>cedilla.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>cent.rvrn</key>
+    <string>cent.rvrn.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
     <key>circumflex.cap</key>
@@ -546,6 +552,8 @@
     <string>divisionslash.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.rvrn</key>
+    <string>dollar.rvrn.glif</string>
     <key>dotabove-ar</key>
     <string>dotabove-ar.glif</string>
     <key>dotabove-ar.comb</key>
@@ -724,12 +732,20 @@
     <string>greaterequal.glif</string>
     <key>guillemotleft</key>
     <string>guillemotleft.glif</string>
+    <key>guillemotleft.rvrn</key>
+    <string>guillemotleft.rvrn.glif</string>
     <key>guillemotright</key>
     <string>guillemotright.glif</string>
+    <key>guillemotright.rvrn</key>
+    <string>guillemotright.rvrn.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
+    <key>guilsinglleft.rvrn</key>
+    <string>guilsinglleft.rvrn.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>guilsinglright.rvrn</key>
+    <string>guilsinglright.rvrn.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hah-ar</key>
@@ -1066,14 +1082,20 @@
     <string>ordmasculine.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
+    <key>oslash.rvrn</key>
+    <string>oslash.rvrn.glif</string>
     <key>oslashacute</key>
     <string>oslashacute.glif</string>
+    <key>oslashacute.rvrn</key>
+    <string>oslashacute.rvrn.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
+    <key>paragraph.rvrn</key>
+    <string>paragraph.rvrn.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenleft-ar</key>
